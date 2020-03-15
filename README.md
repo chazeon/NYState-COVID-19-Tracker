@@ -2,6 +2,10 @@
 
 Positive cases tracker for New York State.
 
+## Result
+
+![](plots/NYState.png)
+
 ## Usage
 
 ### Update

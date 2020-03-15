@@ -95,4 +95,4 @@ plt.title("New York State COVID-19 positive case count")
 plt.xlim(left=arrow.get("2020-03-01"))
 plt.legend()
 
-plt.savefig("NYState.png", dpi=300)
+plt.savefig("plots/NYState.png", dpi=300)
