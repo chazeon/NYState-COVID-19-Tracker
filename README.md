@@ -12,6 +12,7 @@ Positive cases tracker for New York State.
 
 ```bash
 python3 update_v4.py
+python3 parse_v4.py
 ```
 
 ### Plot
