@@ -1,0 +1,712 @@
+[{
+        "raw_data": {
+            "caption": "Data last updated 11am March 8, 2020",
+            "data": [{
+                    "key": "Westchester County",
+                    "value": "82"
+                },
+                {
+                    "key": "Nassau County",
+                    "value": "5"
+                },
+                {
+                    "key": "Rockland County",
+                    "value": "2"
+                },
+                {
+                    "key": "Saratoga County",
+                    "value": "2"
+                },
+                {
+                    "key": "Suffolk County",
+                    "value": "1"
+                },
+                {
+                    "key": "Ulster County",
+                    "value": "1"
+                },
+                {
+                    "key": "New York State (Outside of NYC)",
+                    "value": "93"
+                },
+                {
+                    "key": "New York City",
+                    "value": "12"
+                },
+                {
+                    "key": "Total Positive Cases (Statewide)",
+                    "value": "105"
+                }
+            ]
+        },
+        "raw_version": "3.0",
+        "timestr": "2020-03-08T11:00:00-04:00",
+        "timestamp": 1583679600
+    },
+    {
+        "raw_data": {
+            "caption": "Data last updated 11:15am March 9, 2020",
+            "data": [{
+                    "key": "Westchester County",
+                    "value": "98"
+                },
+                {
+                    "key": "Nassau County",
+                    "value": "17"
+                },
+                {
+                    "key": "Rockland County",
+                    "value": "4"
+                },
+                {
+                    "key": "Saratoga County",
+                    "value": "2"
+                },
+                {
+                    "key": "Suffolk County",
+                    "value": "1"
+                },
+                {
+                    "key": "Ulster County",
+                    "value": "1"
+                },
+                {
+                    "key": "New York State (Outside of NYC)",
+                    "value": "123"
+                },
+                {
+                    "key": "New York City",
+                    "value": "19"
+                },
+                {
+                    "key": "Total Positive Cases (Statewide)",
+                    "value": "142"
+                }
+            ]
+        },
+        "raw_version": "3.0",
+        "timestr": "2020-03-09T11:15:00-04:00",
+        "timestamp": 1583766900
+    },
+    {
+        "raw_data": {
+            "caption": "Data last updated 11:15am March 10, 2020",
+            "data": [{
+                    "key": "Westchester County",
+                    "value": "108"
+                },
+                {
+                    "key": "Nassau County",
+                    "value": "19"
+                },
+                {
+                    "key": "Rockland County",
+                    "value": "6"
+                },
+                {
+                    "key": "Saratoga County",
+                    "value": "2"
+                },
+                {
+                    "key": "Suffolk County",
+                    "value": "1"
+                },
+                {
+                    "key": "Ulster County",
+                    "value": "1"
+                },
+                {
+                    "key": "New York State (Outside of NYC)",
+                    "value": "137"
+                },
+                {
+                    "key": "New York City",
+                    "value": "36"
+                },
+                {
+                    "key": "Total Positive Cases (Statewide)",
+                    "value": "173"
+                }
+            ]
+        },
+        "raw_version": "3.0",
+        "timestr": "2020-03-10T11:15:00-04:00",
+        "timestamp": 1583853300
+    },
+    {
+        "raw_data": {
+            "caption": "Data last updated 11:15am March 11, 2020",
+            "data": [{
+                    "key": "Westchester County",
+                    "value": "121"
+                },
+                {
+                    "key": "Nassau County",
+                    "value": "28"
+                },
+                {
+                    "key": "Suffolk County",
+                    "value": "6"
+                },
+                {
+                    "key": "Rockland County",
+                    "value": "6"
+                },
+                {
+                    "key": "Saratoga County",
+                    "value": "2"
+                },
+                {
+                    "key": "Ulster County",
+                    "value": "1"
+                },
+                {
+                    "key": "New York State (Outside of NYC)",
+                    "value": "164"
+                },
+                {
+                    "key": "New York City",
+                    "value": "52"
+                },
+                {
+                    "key": "Total Positive Cases (Statewide)",
+                    "value": "216"
+                }
+            ]
+        },
+        "raw_version": "3.0",
+        "timestr": "2020-03-11T11:15:00-04:00",
+        "timestamp": 1583939700
+    },
+    {
+        "raw_data": {
+            "caption": "Data last updated 4:00pm March 11, 2020",
+            "data": [{
+                    "key": "Westchester County",
+                    "value": "121"
+                },
+                {
+                    "key": "Nassau County",
+                    "value": "28"
+                },
+                {
+                    "key": "Suffolk County",
+                    "value": "6"
+                },
+                {
+                    "key": "Rockland County",
+                    "value": "6"
+                },
+                {
+                    "key": "Saratoga County",
+                    "value": "2"
+                },
+                {
+                    "key": "Ulster County",
+                    "value": "1"
+                },
+                {
+                    "key": "New York State (Outside of NYC)",
+                    "value": "164"
+                },
+                {
+                    "key": "New York City",
+                    "value": "52"
+                },
+                {
+                    "key": "Total Positive Cases (Statewide)",
+                    "value": "216"
+                }
+            ]
+        },
+        "raw_version": "3.0",
+        "timestr": "2020-03-11T16:00:00-04:00",
+        "timestamp": 1583956800
+    },
+    {
+        "raw_data": {
+            "caption": "Data last updated 4:00pm March 12, 2020",
+            "data": [{
+                    "key": "Westchester County",
+                    "value": "148"
+                },
+                {
+                    "key": "Nassau County",
+                    "value": "41"
+                },
+                {
+                    "key": "Suffolk County",
+                    "value": "20"
+                },
+                {
+                    "key": "Rockland County",
+                    "value": "7"
+                },
+                {
+                    "key": "Saratoga County",
+                    "value": "3"
+                },
+                {
+                    "key": "Ulster County",
+                    "value": "4"
+                },
+                {
+                    "key": "Orange County",
+                    "value": "1"
+                },
+                {
+                    "key": "Albany County",
+                    "value": "1"
+                },
+                {
+                    "key": "Monroe County",
+                    "value": "1"
+                },
+                {
+                    "key": "Dutchess County",
+                    "value": "1"
+                },
+                {
+                    "key": "Delaware County",
+                    "value": "1"
+                },
+                {
+                    "key": "Herkimer County",
+                    "value": "1"
+                },
+                {
+                    "key": "Broome County",
+                    "value": "1"
+                },
+                {
+                    "key": "New York State (Outside of NYC)",
+                    "value": "230"
+                },
+                {
+                    "key": "New York City",
+                    "value": "95"
+                },
+                {
+                    "key": "Total Positive Cases (Statewide)",
+                    "value": "325"
+                }
+            ]
+        },
+        "raw_version": "3.0",
+        "timestr": "2020-03-12T16:00:00-04:00",
+        "timestamp": 1584043200
+    },
+    {
+        "raw_data": {
+            "caption": "Data last updated 3:00pm March 13, 2020",
+            "data": [{
+                    "key": "Westchester County",
+                    "value": "158"
+                },
+                {
+                    "key": "Nassau County",
+                    "value": "51"
+                },
+                {
+                    "key": "Suffolk County",
+                    "value": "28"
+                },
+                {
+                    "key": "Rockland County",
+                    "value": "9"
+                },
+                {
+                    "key": "Ulster County",
+                    "value": "5"
+                },
+                {
+                    "key": "Dutchess County",
+                    "value": "3"
+                },
+                {
+                    "key": "Orange County",
+                    "value": "3"
+                },
+                {
+                    "key": "Saratoga County",
+                    "value": "3"
+                },
+                {
+                    "key": "Albany County",
+                    "value": "2"
+                },
+                {
+                    "key": "Broome County",
+                    "value": "1"
+                },
+                {
+                    "key": "Delaware County",
+                    "value": "1"
+                },
+                {
+                    "key": "Herkimer County",
+                    "value": "1"
+                },
+                {
+                    "key": "Monroe County",
+                    "value": "1"
+                },
+                {
+                    "key": "Schenectady County",
+                    "value": "1"
+                },
+                {
+                    "key": "New York State (Outside of NYC)",
+                    "value": "267"
+                },
+                {
+                    "key": "New York City",
+                    "value": "154"
+                },
+                {
+                    "key": "Total Positive Cases (Statewide)",
+                    "value": "421"
+                }
+            ]
+        },
+        "raw_version": "3.0",
+        "timestr": "2020-03-13T15:00:00-04:00",
+        "timestamp": 1584126000
+    },
+    {
+        "raw_data": {
+            "caption": "Data last updated 12:30pm March 14, 2020",
+            "data": [{
+                    "key": "Albany County:",
+                    "value": "3"
+                },
+                {
+                    "key": "Broome County:",
+                    "value": "1"
+                },
+                {
+                    "key": "Delaware County:",
+                    "value": "1"
+                },
+                {
+                    "key": "Dutchess County:",
+                    "value": "3"
+                },
+                {
+                    "key": "Herkimer County:",
+                    "value": "1"
+                },
+                {
+                    "key": "Monroe County:",
+                    "value": "2"
+                },
+                {
+                    "key": "Nassau County:",
+                    "value": "68"
+                },
+                {
+                    "key": "Orange County:",
+                    "value": "6"
+                },
+                {
+                    "key": "Rockland County:",
+                    "value": "10"
+                },
+                {
+                    "key": "Saratoga:",
+                    "value": "3"
+                },
+                {
+                    "key": "Schenectady:",
+                    "value": "1"
+                },
+                {
+                    "key": "Suffolk County:",
+                    "value": "33"
+                },
+                {
+                    "key": "Tioga County:",
+                    "value": "1"
+                },
+                {
+                    "key": "Tompkins County:",
+                    "value": "1"
+                },
+                {
+                    "key": "Ulster County:",
+                    "value": "5"
+                },
+                {
+                    "key": "Westchester County:",
+                    "value": "172"
+                },
+                {
+                    "key": "New York State (Outside of NYC)",
+                    "value": "311"
+                },
+                {
+                    "key": "New York City:",
+                    "value": "213"
+                },
+                {
+                    "key": "Total Positive Cases (Statewide)",
+                    "value": "524"
+                }
+            ]
+        },
+        "raw_version": "3.0",
+        "timestr": "2020-03-14T12:30:00-04:00",
+        "timestamp": 1584203400
+    },
+    {
+        "raw_data": {
+            "date_string": "Last updated: March 14, 2020 | 8:00PM",
+            "data": [{
+                    "key": "Westchester",
+                    "value": "178"
+                },
+                {
+                    "key": "Nassau",
+                    "value": "79"
+                },
+                {
+                    "key": "Suffolk",
+                    "value": "41"
+                },
+                {
+                    "key": "Rockland",
+                    "value": "12"
+                },
+                {
+                    "key": "Orange",
+                    "value": "6"
+                },
+                {
+                    "key": "Albany",
+                    "value": "5"
+                },
+                {
+                    "key": "Ulster",
+                    "value": "5"
+                },
+                {
+                    "key": "Dutchess",
+                    "value": "4"
+                },
+                {
+                    "key": "Erie",
+                    "value": "3"
+                },
+                {
+                    "key": "Saratoga",
+                    "value": "3"
+                },
+                {
+                    "key": "Monroe",
+                    "value": "2"
+                },
+                {
+                    "key": "Broom",
+                    "value": "1"
+                },
+                {
+                    "key": "Delaware",
+                    "value": "1"
+                },
+                {
+                    "key": "Herkimer",
+                    "value": "1"
+                },
+                {
+                    "key": "Schenectady",
+                    "value": "1"
+                },
+                {
+                    "key": "Tioga",
+                    "value": "1"
+                },
+                {
+                    "key": "Tompkins",
+                    "value": "1"
+                },
+                {
+                    "key": "New York State (Outside of NYC)",
+                    "value": "344"
+                },
+                {
+                    "key": "New York City:",
+                    "value": "269"
+                },
+                {
+                    "key": "Total Positive Cases (Statewide)",
+                    "value": "613"
+                }
+            ]
+        },
+        "raw_version": "4.0",
+        "timestr": "2020-03-14T20:00:00-04:00",
+        "timestamp": 1584230400
+    },
+    {
+        "raw_data": {
+            "caption": "Data last updated February 26, 2020",
+            "data": [{
+                    "key": "New York State(Outside of NYC)",
+                    "value": "0"
+                },
+                {
+                    "key": "New York City(NYC)",
+                    "value": "0"
+                }
+            ]
+        },
+        "timestr": "2020-02-26T00:00:00-05:00",
+        "raw_version": "2.0"
+    },
+    {
+        "raw_data": {
+            "caption": "Data last updated March 1, 2020",
+            "data": [{
+                    "key": "New York State(Outside of NYC)",
+                    "value": "0"
+                },
+                {
+                    "key": "New York City(NYC)",
+                    "value": "0"
+                }
+            ]
+        },
+        "timestr": "2020-03-01T00:00:00-05:00",
+        "raw_version": "2.0"
+    },
+    {
+        "raw_data": {
+            "caption": "Data last updated March 2, 2020",
+            "data": [{
+                    "key": "New York State(Outside of NYC)",
+                    "value": "0"
+                },
+                {
+                    "key": "New York City(NYC)",
+                    "value": "1"
+                }
+            ]
+        },
+        "timestr": "2020-03-02T00:00:00-05:00",
+        "raw_version": "2.0"
+    },
+    {
+        "raw_data": {
+            "caption": "Data last updated 6:00pm March 4, 2020",
+            "data": [{
+                    "key": "New York State(Outside of NYC)",
+                    "value": "10"
+                },
+                {
+                    "key": "New York City(NYC)",
+                    "value": "1"
+                }
+            ]
+        },
+        "raw_version": "2.0",
+        "timestr": "2020-03-04T18:00:00-05:00",
+        "timestamp": 1583362800
+    },
+    {
+        "raw_data": {
+            "caption": "Data last updated 2pm March 5, 2020",
+            "data": [{
+                    "key": "New York State(Outside of NYC)",
+                    "value": "19"
+                },
+                {
+                    "key": "New York City(NYC)",
+                    "value": "3"
+                }
+            ]
+        },
+        "raw_version": "2.0",
+        "timestr": "2020-03-05T14:00:00-05:00",
+        "timestamp": 1583434800
+    },
+    {
+        "raw_data": {
+            "caption": "Data last updated 3pm March 6, 2020",
+            "data": [{
+                    "key": "New York State(Outside of NYC)",
+                    "value": "29"
+                },
+                {
+                    "key": "New York City(NYC)",
+                    "value": "4"
+                }
+            ]
+        },
+        "raw_version": "2.0",
+        "timestr": "2020-03-06T15:00:00-05:00",
+        "timestamp": 1583524800
+    },
+    {
+        "raw_data": {
+            "caption": "Data last updated 5:30pm March 6, 2020",
+            "data": [{
+                    "key": "New York State(Outside of NYC)",
+                    "value": "40"
+                },
+                {
+                    "key": "New York City(NYC)",
+                    "value": "4"
+                }
+            ]
+        },
+        "raw_version": "2.0",
+        "timestr": "2020-03-06T17:30:00-05:00",
+        "timestamp": 1583533800
+    },
+    {
+        "raw_data": {
+            "caption": "Data last updated 2pm March 7, 2020",
+            "data": [{
+                    "key": "New York State(Outside of NYC)",
+                    "value": "65"
+                },
+                {
+                    "key": "New York City(NYC)",
+                    "value": "11"
+                }
+            ]
+        },
+        "raw_version": "2.0",
+        "timestr": "2020-03-07T14:00:00-05:00",
+        "timestamp": 1583607600
+    },
+    {
+        "raw_data": {
+            "caption": "Data last updated 6pm March 7, 2020",
+            "data": [{
+                    "key": "New York State(Outside of NYC)",
+                    "value": "78"
+                },
+                {
+                    "key": "New York City(NYC)",
+                    "value": "11"
+                }
+            ]
+        },
+        "raw_version": "2.0",
+        "timestr": "2020-03-07T18:00:00-05:00",
+        "timestamp": 1583622000
+    },
+    {
+        "raw_data": {
+            "caption": "Data last updated 11am March 8, 2020",
+            "data": [{
+                "key": "Positive Cases",
+                "value": "82"
+            }]
+        },
+        "raw_version": "2.0",
+        "timestr": "2020-03-08T11:00:00-04:00",
+        "timestamp": 1583679600
+    }
+]
