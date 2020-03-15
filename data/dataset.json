@@ -729,5 +729,107 @@
     "raw_version": "2.0",
     "timestr": "2020-03-08T11:00:00-04:00",
     "timestamp": 1583679600
+  },
+  {
+    "raw_data": {
+      "date_string": "Last updated: March 15, 2020 | 3:00PM",
+      "data": [
+        {
+          "key": "Albany",
+          "value": "8"
+        },
+        {
+          "key": "Broome",
+          "value": "1"
+        },
+        {
+          "key": "Delaware",
+          "value": "1"
+        },
+        {
+          "key": "Dutchess",
+          "value": "7"
+        },
+        {
+          "key": "Erie",
+          "value": "3"
+        },
+        {
+          "key": "Greene",
+          "value": "2"
+        },
+        {
+          "key": "Herkimer",
+          "value": "1"
+        },
+        {
+          "key": "Monroe",
+          "value": "2"
+        },
+        {
+          "key": "Montgomery",
+          "value": "1"
+        },
+        {
+          "key": "Nassau",
+          "value": "98"
+        },
+        {
+          "key": "Orange",
+          "value": "6"
+        },
+        {
+          "key": "Putnam",
+          "value": "2"
+        },
+        {
+          "key": "Rockland",
+          "value": "13"
+        },
+        {
+          "key": "Saratoga",
+          "value": "3"
+        },
+        {
+          "key": "Schenectady",
+          "value": "2"
+        },
+        {
+          "key": "Suffolk",
+          "value": "47"
+        },
+        {
+          "key": "Tioga",
+          "value": "1"
+        },
+        {
+          "key": "Tompkins",
+          "value": "1"
+        },
+        {
+          "key": "Ulster",
+          "value": "5"
+        },
+        {
+          "key": "Westchester",
+          "value": "196"
+        },
+        {
+          "key": "New York State (Outside of NYC)",
+          "value": "400"
+        },
+        {
+          "key": "New York City:",
+          "value": "329"
+        },
+        {
+          "key": "Total Positive Cases (Statewide)",
+          "value": "729 "
+        }
+      ]
+    },
+    "raw_version": "4.0",
+    "timestr": "2020-03-15T15:00:00-04:00",
+    "timestamp": 1584298800
   }
 ]
