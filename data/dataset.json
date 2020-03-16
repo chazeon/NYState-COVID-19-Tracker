@@ -831,5 +831,119 @@
     "raw_version": "4.0",
     "timestr": "2020-03-15T15:00:00-04:00",
     "timestamp": 1584298800
+  },
+  {
+    "raw_data": {
+      "date_string": "Last updated: March 16, 2020 | 3:00PM",
+      "data": [
+        {
+          "key": "Westchester ",
+          "value": "220"
+        },
+        {
+          "key": "Nassau  ",
+          "value": "109"
+        },
+        {
+          "key": "Suffolk ",
+          "value": "63"
+        },
+        {
+          "key": "Rockland ",
+          "value": "16"
+        },
+        {
+          "key": "Albany ",
+          "value": "12"
+        },
+        {
+          "key": "Orange ",
+          "value": "11"
+        },
+        {
+          "key": "Dutchess  ",
+          "value": "10"
+        },
+        {
+          "key": "Monroe ",
+          "value": "10"
+        },
+        {
+          "key": "Ulster ",
+          "value": "7"
+        },
+        {
+          "key": "Saratoga ",
+          "value": "5"
+        },
+        {
+          "key": "Erie  ",
+          "value": "6"
+        },
+        {
+          "key": "Schenectady ",
+          "value": "4"
+        },
+        {
+          "key": "Greene  ",
+          "value": "2"
+        },
+        {
+          "key": "Putnam  ",
+          "value": "2"
+        },
+        {
+          "key": "Allegany  ",
+          "value": "2"
+        },
+        {
+          "key": "Broome ",
+          "value": "1"
+        },
+        {
+          "key": "Delaware ",
+          "value": "1"
+        },
+        {
+          "key": "Herkimer ",
+          "value": "1"
+        },
+        {
+          "key": "Tioga  ",
+          "value": "1"
+        },
+        {
+          "key": "Tompkins",
+          "value": "1"
+        },
+        {
+          "key": "Montgomery",
+          "value": "1"
+        },
+        {
+          "key": "Onondaga ",
+          "value": "1"
+        },
+        {
+          "key": "Ontario ",
+          "value": "1"
+        },
+        {
+          "key": "New York State (Outside of NYC)",
+          "value": "487"
+        },
+        {
+          "key": "New York City:",
+          "value": "463"
+        },
+        {
+          "key": "Total Positive Cases (Statewide)",
+          "value": "950"
+        }
+      ]
+    },
+    "raw_version": "4.0",
+    "timestr": "2020-03-16T15:00:00-04:00",
+    "timestamp": 1584385200
   }
 ]
