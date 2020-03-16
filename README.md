@@ -5,21 +5,17 @@ Positive cases tracker for New York State.
 ## Result
 
 ![](plots/NYState.png)
+![](plots/NYState2.png)
 
 ## Usage
 
 ### Update
 
 ```bash
-python3 update_v4.py
-python3 parse_v4.py
+make update
+make upload
 ```
 
-### Plot
-
-```bash
-python3 plot.py
-```
 
 ## Dependencies
 

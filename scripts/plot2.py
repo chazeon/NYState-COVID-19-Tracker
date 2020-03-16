@@ -3,6 +3,12 @@ import arrow
 import numpy
 import re
 
+def calc_doubling_date(x_array, y_array):
+    delta = numpy.log(2) / (numpy.log(y_array[-1]) - numpy.log(y_array[-2])) * (x_array[-1] - x_array[-2])
+    return delta.days + delta.seconds / 86400
+
+import si_prefix
+
 from matplotlib.ticker import LogFormatter
 
 with open("data/dataset.json") as fp:
@@ -60,11 +66,19 @@ for area_name in list(number_by_area.keys()):
     if len(number_by_area[area_name]) == 0:
         del number_by_area[area_name]
 
+print(number_by_area.keys())
+
 from matplotlib import pyplot as plt
+
 
 plt.figure()
 
-for area_name in ["New York City", "Total Positive Cases (Statewide)"]:
+for area_name in number_by_area.keys():
+
+    print(area_name)
+
+    if area_name in {"New York State(Outside of NYC)", "New York City(NYC)", "New York State (Outside of NYC)", "Positive Cases"}:
+        continue
 
     data = number_by_area[area_name]
 
@@ -73,18 +87,33 @@ for area_name in ["New York City", "Total Positive Cases (Statewide)"]:
 
     x_array, y_array = zip(*sorted(zip(x_array, y_array), key=lambda  item: (item[0], item[1])))
 
-    #print(x_array)
+    if max(y_array) < 50: continue
 
-    plt.plot_date(x_array, y_array, marker="o", linestyle="-", label=area_name)
+    color = None 
+    linewidth = 1.5
+    if area_name == "Total Positive Cases (Statewide)":
+        area_name = "Statewide total"
+        color = "#666666"
+        linewidth = 2.5
+
+    line, = plt.plot_date(x_array, y_array, marker="o", linestyle="-", label=area_name, linewidth=linewidth, color=color)
 
     for x, y in zip(x_array, y_array):
+        if y < 10: continue
+        plt.text(x, y*1.1, str(y), va="bottom", ha="center", size=6, c=line.get_color())
 
-        plt.text(x, y * 1.2, str(y), va="center", ha="center", size=6)
+    # print(calc_doubling_date(x_array, y_array))
+    plt.text(x_array[-1].shift(days=.5), y_array[-1], area_name, va="bottom", ha="left", size=6, c=line.get_color(), fontsize=8, fontweight="bold")
+    plt.text(x_array[-1].shift(days=.5), y_array[-1] / 1.03, f"Double every {calc_doubling_date(x_array, y_array):.1f} days", va="top", ha="left", size=6, c="k")
+
+for sname in ["top", "right"]:
+    spine = plt.gca().spines[sname]
+    spine.set_visible(False)
 
 plt.semilogy()
 
 plt.xlabel("Time")
-plt.ylabel("Positive case")
+plt.ylabel("Positive cases")
 
 from matplotlib.dates import AutoDateLocator, DateFormatter
 from matplotlib.ticker import LogLocator, NullLocator, LogFormatter
@@ -97,11 +126,13 @@ plt.gca().yaxis.set_major_formatter(LogFormatter(labelOnlyBase=False, minor_thre
 plt.gca().yaxis.set_minor_locator(NullLocator())
 
 
-plt.title("New York State COVID-19 positive case count")
+#plt.title("New York State COVID-19 positive case count (county with > 100 cases)")
 
-plt.xlim(left=arrow.get("2020-03-01"))
-plt.ylim(bottom=1)
+plt.xlim(left=arrow.get("2020-03-03"))
+plt.xlim(right=1.05*(plt.xlim()[1] - plt.xlim()[0])+plt.xlim()[0])
+plt.ylim(bottom=10)
 
-plt.legend()
+# plt.legend()
+plt.tight_layout()
 
-plt.savefig("plots/NYState.png", dpi=300)
+plt.savefig("plots/NYState2.png", dpi=300)
