@@ -2,6 +2,9 @@ import json
 import arrow
 import numpy
 import re
+import locale
+
+locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 
 def calc_doubling_date(x_array, y_array):
     delta = numpy.log(2) / (numpy.log(y_array[-1]) - numpy.log(y_array[-2])) * (x_array[-1] - x_array[-2])
@@ -26,7 +29,7 @@ for item in dataset:
         area_name = re.sub("\s*:\s*$", "", area_name)
         area_name = re.sub("\s+County\s*$", "", area_name)
         area_name = area_name.strip()
-        area_count = int(area["value"])
+        area_count = locale.atoi(area["value"])
 
         if area_name not in number_by_area.keys():
             number_by_area[area_name] = []
