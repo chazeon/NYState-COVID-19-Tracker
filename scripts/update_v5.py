@@ -24,7 +24,8 @@ if __name__ == "__main__":
     if raw_data not in [data["raw_data"] for data in dataset]:
         dataset.append({
             "raw_data": raw_data,
-            "raw_version": "5.0"
+            "raw_version": "5.0",
+            "raw_source": URL
         })
     
     with open("data/dataset.json", "w") as fp:

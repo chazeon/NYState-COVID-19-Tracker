@@ -3,6 +3,7 @@ import arrow
 import numpy
 import re
 import locale
+import datetime
 
 locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 
@@ -10,12 +11,23 @@ def calc_doubling_date(x_array, y_array):
     delta = numpy.log(2) / (numpy.log(y_array[-1]) - numpy.log(y_array[-2])) * (x_array[-1] - x_array[-2])
     return delta.days + delta.seconds / 86400
 
+def calc_increase_rate(x_array, y_array):
+    delta_x = x_array[-1] - x_array[-2]
+    log_delta_y = numpy.log(y_array[-1]) - numpy.log(y_array[-2])
+    rate = numpy.exp(log_delta_y * datetime.timedelta(days=1) / delta_x)
+    return rate
+
 import si_prefix
 
 from matplotlib.ticker import LogFormatter
 
 with open("data/dataset.json") as fp:
     dataset = json.load(fp)
+
+#with open("data/dataset-nyc.json") as fp:
+    #dataset2 = json.load(fp)
+
+#dataset.extend(dataset2)
 
 number_by_area = {}
 
@@ -107,7 +119,8 @@ for area_name in number_by_area.keys():
 
     # print(calc_doubling_date(x_array, y_array))
     plt.text(x_array[-1].shift(days=.5), y_array[-1], area_name, va="bottom", ha="left", size=6, c=line.get_color(), fontsize=8, fontweight="bold")
-    plt.text(x_array[-1].shift(days=.5), y_array[-1] / 1.03, f"Double every {calc_doubling_date(x_array, y_array):.1f} days", va="top", ha="left", size=6, c="k")
+    plt.text(x_array[-1].shift(days=.5), y_array[-1] / 1.04, f"Double every {calc_doubling_date(x_array, y_array):.1f} days", va="top", ha="left", size=5, c="k")
+    plt.text(x_array[-1].shift(days=.5), y_array[-1] / 1.18, f"Increase by {calc_increase_rate(x_array, y_array) * 100 - 100:.1f}% daily", va="top", ha="left", size=5, c="k")
 
 for sname in ["top", "right"]:
     spine = plt.gca().spines[sname]
