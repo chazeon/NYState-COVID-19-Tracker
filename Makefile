@@ -10,3 +10,4 @@ update:
 	python3 scripts/update_v4.py
 	python3 scripts/parse_v4.py
 	python3 scripts/plot.py
+	python3 scripts/plot2.py

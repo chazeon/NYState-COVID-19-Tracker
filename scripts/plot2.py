@@ -66,7 +66,7 @@ for area_name in list(number_by_area.keys()):
     if len(number_by_area[area_name]) == 0:
         del number_by_area[area_name]
 
-print(number_by_area.keys())
+#print(number_by_area.keys())
 
 from matplotlib import pyplot as plt
 
@@ -75,7 +75,7 @@ plt.figure()
 
 for area_name in number_by_area.keys():
 
-    print(area_name)
+    #print(area_name)
 
     if area_name in {"New York State(Outside of NYC)", "New York City(NYC)", "New York State (Outside of NYC)", "Positive Cases"}:
         continue
@@ -92,7 +92,7 @@ for area_name in number_by_area.keys():
     color = None 
     linewidth = 1.5
     if area_name == "Total Positive Cases (Statewide)":
-        area_name = "Statewide total"
+        area_name = "NYState total"
         color = "#666666"
         linewidth = 2.5
 
