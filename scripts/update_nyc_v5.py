@@ -9,8 +9,7 @@ def get_table(soup: BeautifulSoup):
     date_string = para[0].text
     #table = soup.select(".wysiwyg--field-webny-wysiwyg-body > table")[0]
     #cells = table.select("td")
-    print(str(para[0]))
-    count = str(para[0].select("strong")[0].text)
+    count = str(para[0].select("strong")[0].text).strip("*")
     results = [{ "key": "New York City", "value": count }]
 
     return { "date_string": date_string, "data": results }

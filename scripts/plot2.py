@@ -8,7 +8,7 @@ import datetime
 locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 
 def calc_doubling_date(x_array, y_array):
-    delta = numpy.log(2) / (numpy.log(y_array[-1]) - numpy.log(y_array[-2])) * (x_array[-1] - x_array[-2])
+    delta = numpy.log(2) / (numpy.log(y_array[-1]) - numpy.log(y_array[-3])) * (x_array[-1] - x_array[-3])
     return delta.days + delta.seconds / 86400
 
 def calc_increase_rate(x_array, y_array):

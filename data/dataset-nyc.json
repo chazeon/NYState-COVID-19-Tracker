@@ -1,0 +1,17 @@
+[
+  {
+    "raw_data": {
+      "date_string": "NYC residents tested positive (as of March 17 at 2:30 p.m.): 814*",
+      "data": [
+        {
+          "key": "New York City",
+          "value": "814"
+        }
+      ]
+    },
+    "raw_source": "https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page",
+    "raw_version": "5.0",
+    "timestr": "2020-03-17T14:30:00-04:00",
+    "timestamp": 1584469800
+  }
+]

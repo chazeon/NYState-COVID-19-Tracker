@@ -22,7 +22,5 @@ for item in dataset:
     item["timestr"] = str(date)
     item["timestamp"] = date.timestamp
 
-    print(item)
-
 with open("data/dataset-nyc.json", "w") as fp:
     json.dump(dataset, fp, indent=2)

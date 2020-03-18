@@ -1073,7 +1073,139 @@
       ]
     },
     "raw_version": "5.0",
+    "raw_source": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
     "timestr": "2020-03-17T13:19:00-04:00",
     "timestamp": 1584465540
+  },
+  {
+    "raw_data": {
+      "date_string": "Last Update: March 17, 2020 | 8:15 PM",
+      "data": [
+        {
+          "key": "Westchester",
+          "value": "380"
+        },
+        {
+          "key": "Nassau",
+          "value": "131"
+        },
+        {
+          "key": "Suffolk",
+          "value": "84"
+        },
+        {
+          "key": "Albany",
+          "value": "23"
+        },
+        {
+          "key": "Rockland",
+          "value": "22"
+        },
+        {
+          "key": "Dutchess",
+          "value": "16"
+        },
+        {
+          "key": "Orange",
+          "value": "15"
+        },
+        {
+          "key": "Monroe",
+          "value": "10"
+        },
+        {
+          "key": "Saratoga",
+          "value": "9"
+        },
+        {
+          "key": "Ulster",
+          "value": "8"
+        },
+        {
+          "key": "Erie",
+          "value": "7"
+        },
+        {
+          "key": "Schenectady",
+          "value": "5"
+        },
+        {
+          "key": "Allegany",
+          "value": "2"
+        },
+        {
+          "key": "Greene",
+          "value": "2"
+        },
+        {
+          "key": "Putnam",
+          "value": "2"
+        },
+        {
+          "key": "Onondaga",
+          "value": "2"
+        },
+        {
+          "key": "Tompkins",
+          "value": "2"
+        },
+        {
+          "key": "Broome",
+          "value": "1"
+        },
+        {
+          "key": "Clinton",
+          "value": "1"
+        },
+        {
+          "key": "Delaware",
+          "value": "1"
+        },
+        {
+          "key": "Herkimer",
+          "value": "1"
+        },
+        {
+          "key": "Tioga",
+          "value": "1"
+        },
+        {
+          "key": "Montgomery",
+          "value": "1"
+        },
+        {
+          "key": "Ontario",
+          "value": "1"
+        },
+        {
+          "key": "Rensselaer",
+          "value": "1"
+        },
+        {
+          "key": "Sullivan",
+          "value": "1"
+        },
+        {
+          "key": "Wyoming",
+          "value": "1"
+        },
+        {
+          "key": "New York State (Outside of NYC)",
+          "value": "730"
+        },
+        {
+          "key": "New York City",
+          "value": "644"
+        },
+        {
+          "key": "Total Positive Cases (Statewide)",
+          "value": "1,374"
+        }
+      ]
+    },
+    "raw_version": "5.0",
+    "raw_source": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
+    "timestr": "2020-03-17T20:15:00-04:00",
+    "timestamp": 1584490500
   }
 ]
