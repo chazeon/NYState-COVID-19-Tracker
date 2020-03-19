@@ -4,11 +4,12 @@ import numpy
 import re
 import locale
 import datetime
+import itertools
 
 locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 
 def calc_doubling_date(x_array, y_array):
-    delta = numpy.log(2) / (numpy.log(y_array[-1]) - numpy.log(y_array[-3])) * (x_array[-1] - x_array[-3])
+    delta = numpy.log(2) / (numpy.log(y_array[-1]) - numpy.log(y_array[-2])) * (x_array[-1] - x_array[-2])
     return delta.days + delta.seconds / 86400
 
 def calc_increase_rate(x_array, y_array):
@@ -17,6 +18,25 @@ def calc_increase_rate(x_array, y_array):
     rate = numpy.exp(log_delta_y * datetime.timedelta(days=1) / delta_x)
     return rate
 
+def remove_duplicate(x_array, y_array):
+
+    first, curr = itertools.tee(enumerate(zip(x_array, y_array)))
+
+
+    def yield_xy():
+        j, (_x, _y) = next(first)
+        yield (_x, _y)
+
+        for i, (x, y) in curr:
+            if _y != y: 
+                for j, (_x, _y) in first:
+                    if j == i: break
+                yield (_x, _y)
+    
+    x_array, y_array = zip(*list(yield_xy()))
+
+    return x_array, y_array
+
 import si_prefix
 
 from matplotlib.ticker import LogFormatter
@@ -24,10 +44,10 @@ from matplotlib.ticker import LogFormatter
 with open("data/dataset.json") as fp:
     dataset = json.load(fp)
 
-#with open("data/dataset-nyc.json") as fp:
-    #dataset2 = json.load(fp)
+with open("data/dataset-nyc.json") as fp:
+    dataset2 = json.load(fp)
 
-#dataset.extend(dataset2)
+dataset.extend(dataset2)
 
 number_by_area = {}
 
@@ -64,10 +84,12 @@ for item in dataset:
 
         if int(item["raw_version"].split(".")[0]) >= 3:
 
+            if area_name == "Total Number of Positive Cases":
+                area_name = "Total Positive Cases (Statewide)"
+
             if date_data not in number_by_area[area_name]:
                 number_by_area[area_name].append(date_data)
     
-
     if int(item["raw_version"].split(".")[0]) < 3:
         area_name = "Total Positive Cases (Statewide)"
         if area_name not in number_by_area.keys():
@@ -100,7 +122,8 @@ for area_name in number_by_area.keys():
     x_array = [item["date"] for item in data]
     y_array = [item["count"] for item in data]
 
-    x_array, y_array = zip(*sorted(zip(x_array, y_array), key=lambda  item: (item[0], item[1])))
+    x_array, y_array = remove_duplicate(x_array, y_array)
+    x_array, y_array = zip(*sorted(zip(x_array, y_array), key=lambda  item: item[0]))
 
     if max(y_array) < 50: continue
 
@@ -119,8 +142,11 @@ for area_name in number_by_area.keys():
 
     # print(calc_doubling_date(x_array, y_array))
     plt.text(x_array[-1].shift(days=.5), y_array[-1], area_name, va="bottom", ha="left", size=6, c=line.get_color(), fontsize=8, fontweight="bold")
-    plt.text(x_array[-1].shift(days=.5), y_array[-1] / 1.04, f"Double every {calc_doubling_date(x_array, y_array):.1f} days", va="top", ha="left", size=5, c="k")
-    plt.text(x_array[-1].shift(days=.5), y_array[-1] / 1.18, f"Increase by {calc_increase_rate(x_array, y_array) * 100 - 100:.1f}% daily", va="top", ha="left", size=5, c="k")
+    try:
+        plt.text(x_array[-1].shift(days=.5), y_array[-1] / 1.04, f"Double every {calc_doubling_date(x_array, y_array):.1f} days", va="top", ha="left", size=5, c="k")
+        plt.text(x_array[-1].shift(days=.5), y_array[-1] / 1.18, f"Increase by {calc_increase_rate(x_array, y_array) * 100 - 100:.1f}% daily", va="top", ha="left", size=5, c="k")
+    except:
+        pass
 
 for sname in ["top", "right"]:
     spine = plt.gca().spines[sname]

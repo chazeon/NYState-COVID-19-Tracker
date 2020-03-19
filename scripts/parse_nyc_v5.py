@@ -17,7 +17,10 @@ for item in dataset:
     part = part.replace("a.m.", "am")
     part = part.replace("p.m.", "pm")
 
-    date = arrow.get(part, "MMMM D [at] h:mm a", tzinfo=tz.gettz('US/Eastern')).replace(year=2020)
+    try:
+        date = arrow.get(part, "MMMM D [at] h:mm a", tzinfo=tz.gettz('US/Eastern')).replace(year=2020)
+    except arrow.parser.ParserMatchError:
+        date = arrow.get(part, "MMMM D [at] h a", tzinfo=tz.gettz('US/Eastern')).replace(year=2020)
 
     item["timestr"] = str(date)
     item["timestamp"] = date.timestamp

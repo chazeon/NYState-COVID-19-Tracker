@@ -5,11 +5,12 @@ from bs4 import BeautifulSoup
 URL = "https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page"
 
 def get_table(soup: BeautifulSoup):
-    para = soup.select("div.about-description > div:nth-child(3) > div > p:nth-child(14)")
-    date_string = para[0].text
+    paras = soup.select("div.about-description > div:nth-child(3) > div > p")
+    para = paras[-2]
+    date_string = para.text
     #table = soup.select(".wysiwyg--field-webny-wysiwyg-body > table")[0]
     #cells = table.select("td")
-    count = str(para[0].select("strong")[0].text).strip("*")
+    count = str(para.select("strong")[0].text).strip("*")
     results = [{ "key": "New York City", "value": count }]
 
     return { "date_string": date_string, "data": results }

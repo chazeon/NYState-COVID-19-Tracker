@@ -13,5 +13,35 @@
     "raw_version": "5.0",
     "timestr": "2020-03-17T14:30:00-04:00",
     "timestamp": 1584469800
+  },
+  {
+    "raw_data": {
+      "date_string": "NYC residents tested positive (as of March 18 at 10 a.m.): 923*",
+      "data": [
+        {
+          "key": "New York City",
+          "value": "923"
+        }
+      ]
+    },
+    "raw_source": "https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page",
+    "raw_version": "5.0",
+    "timestr": "2020-03-18T10:00:00-04:00",
+    "timestamp": 1584540000
+  },
+  {
+    "raw_data": {
+      "date_string": "NYC residents tested positive (as of March 18 at 6 p.m.): 1,871*",
+      "data": [
+        {
+          "key": "New York City",
+          "value": "1,871"
+        }
+      ]
+    },
+    "raw_source": "https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page",
+    "raw_version": "5.0",
+    "timestr": "2020-03-18T18:00:00-04:00",
+    "timestamp": 1584568800
   }
 ]

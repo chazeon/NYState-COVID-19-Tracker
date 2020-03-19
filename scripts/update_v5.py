@@ -5,7 +5,8 @@ from bs4 import BeautifulSoup
 URL = "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases"
 
 def get_table(soup: BeautifulSoup):
-    date_string = soup.select(".wysiwyg--field-webny-wysiwyg-title")[0].text
+
+    date_string = soup.select("body > div.dialog-off-canvas-main-canvas > div > main > div > div > div.page-paragraphs.landing-paragraphs > div > div > div > div > div.wysiwyg--field-webny-wysiwyg-title")[0].text
     table = soup.select(".wysiwyg--field-webny-wysiwyg-body > table")[0]
     cells = table.select("td")
     results = [{ "key": str(k.text), "value": str(v.text) } for k, v in zip(cells[0::2], cells[1::2])]

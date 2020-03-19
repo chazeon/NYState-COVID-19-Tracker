@@ -8,7 +8,10 @@ with open("data/dataset.json") as fp:
 for item in dataset:
     if item["raw_version"] != "5.0": continue
 
-    date = arrow.get(item["raw_data"]["date_string"], "[Last Update:] MMMM D, YYYY | h:mm A", tzinfo=tz.gettz('US/Eastern'))
+    try:
+        date = arrow.get(item["raw_data"]["date_string"], "[Last Update:] MMMM D, YYYY | h:mm A", tzinfo=tz.gettz('US/Eastern'))
+    except arrow.parser.ParserMatchError:
+        date = arrow.get(item["raw_data"]["date_string"], "[Last Update:] MMMM D, YYYY | h:mmA", tzinfo=tz.gettz('US/Eastern'))
 
     item["timestr"] = str(date)
     item["timestamp"] = date.timestamp
