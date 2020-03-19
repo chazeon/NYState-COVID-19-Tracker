@@ -2073,5 +2073,180 @@
     "raw_source": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
     "timestr": "2020-03-19T12:00:00-04:00",
     "timestamp": 1584633600
+  },
+  {
+    "raw_data": {
+      "date_string": "Last Update: March 19, 2020 | 1:20PM",
+      "data": [
+        {
+          "key": "Albany",
+          "value": "43"
+        },
+        {
+          "key": "Allegany",
+          "value": "2"
+        },
+        {
+          "key": "Broome",
+          "value": "2"
+        },
+        {
+          "key": "Chenango",
+          "value": "2"
+        },
+        {
+          "key": "Clinton",
+          "value": "2"
+        },
+        {
+          "key": "Delaware",
+          "value": "1"
+        },
+        {
+          "key": "Dutchess",
+          "value": "31"
+        },
+        {
+          "key": "Erie",
+          "value": "28"
+        },
+        {
+          "key": "Essex",
+          "value": "1"
+        },
+        {
+          "key": "Fulton",
+          "value": "1"
+        },
+        {
+          "key": "Genesee",
+          "value": "1"
+        },
+        {
+          "key": "Greene",
+          "value": "2"
+        },
+        {
+          "key": "Hamilton",
+          "value": "2"
+        },
+        {
+          "key": "Herkimer",
+          "value": "1"
+        },
+        {
+          "key": "Jefferson",
+          "value": "1"
+        },
+        {
+          "key": "Monroe",
+          "value": "27"
+        },
+        {
+          "key": "Montgomery",
+          "value": "2"
+        },
+        {
+          "key": "Nassau",
+          "value": "372"
+        },
+        {
+          "key": "Niagara",
+          "value": "1"
+        },
+        {
+          "key": "New York City",
+          "value": "2,469"
+        },
+        {
+          "key": "Oneida",
+          "value": "2"
+        },
+        {
+          "key": "Onondaga",
+          "value": "5"
+        },
+        {
+          "key": "Ontario",
+          "value": "1"
+        },
+        {
+          "key": "Orange",
+          "value": "51"
+        },
+        {
+          "key": "Putnam",
+          "value": "5"
+        },
+        {
+          "key": "Rensselaer",
+          "value": "6"
+        },
+        {
+          "key": "Rockland",
+          "value": "53"
+        },
+        {
+          "key": "Saratoga",
+          "value": "18"
+        },
+        {
+          "key": "Schenectady",
+          "value": "18"
+        },
+        {
+          "key": "Schoharie",
+          "value": "1"
+        },
+        {
+          "key": "Suffolk",
+          "value": "178"
+        },
+        {
+          "key": "Sullivan",
+          "value": "3"
+        },
+        {
+          "key": "Tioga",
+          "value": "1"
+        },
+        {
+          "key": "Tompkins",
+          "value": "6"
+        },
+        {
+          "key": "Ulster",
+          "value": "10"
+        },
+        {
+          "key": "Warren",
+          "value": "1"
+        },
+        {
+          "key": "Washington",
+          "value": "1"
+        },
+        {
+          "key": "Wayne",
+          "value": "1"
+        },
+        {
+          "key": "Westchester",
+          "value": "798"
+        },
+        {
+          "key": "Wyoming",
+          "value": "2"
+        },
+        {
+          "key": "Total Number of Positive Cases",
+          "value": "4,152"
+        }
+      ]
+    },
+    "raw_version": "5.0",
+    "raw_source": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
+    "timestr": "2020-03-19T13:20:00-04:00",
+    "timestamp": 1584638400
   }
 ]
