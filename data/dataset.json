@@ -2618,5 +2618,204 @@
     "raw_source": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
     "timestr": "2020-03-21T16:14:00-04:00",
     "timestamp": 1584821640
+  },
+  {
+    "raw_data": {
+      "date_string": "Last Update: March 22, 2020 | 2:15PM",
+      "data": [
+        {
+          "key": "Albany",
+          "value": "123"
+        },
+        {
+          "key": "Allegany",
+          "value": "2"
+        },
+        {
+          "key": "Broome",
+          "value": "3"
+        },
+        {
+          "key": "Chenango",
+          "value": "3"
+        },
+        {
+          "key": "Clinton",
+          "value": "4"
+        },
+        {
+          "key": "Columbia",
+          "value": "5"
+        },
+        {
+          "key": "Cortland",
+          "value": "1"
+        },
+        {
+          "key": "Delaware",
+          "value": "3"
+        },
+        {
+          "key": "Dutchess",
+          "value": "82"
+        },
+        {
+          "key": "Erie",
+          "value": "54"
+        },
+        {
+          "key": "Essex",
+          "value": "3"
+        },
+        {
+          "key": "Fulton",
+          "value": "1"
+        },
+        {
+          "key": "Genesee",
+          "value": "1"
+        },
+        {
+          "key": "Greene",
+          "value": "2"
+        },
+        {
+          "key": "Hamilton",
+          "value": "2"
+        },
+        {
+          "key": "Herkimer",
+          "value": "4"
+        },
+        {
+          "key": "Jefferson",
+          "value": "1"
+        },
+        {
+          "key": "Livingston",
+          "value": "2"
+        },
+        {
+          "key": "Madison",
+          "value": "1"
+        },
+        {
+          "key": "Monroe",
+          "value": "57"
+        },
+        {
+          "key": "Montgomery",
+          "value": "3"
+        },
+        {
+          "key": "Nassau",
+          "value": "1,900"
+        },
+        {
+          "key": "Niagara",
+          "value": "6"
+        },
+        {
+          "key": "New York City",
+          "value": "9,045"
+        },
+        {
+          "key": "Oneida",
+          "value": "5"
+        },
+        {
+          "key": "Onondaga",
+          "value": "29"
+        },
+        {
+          "key": "Ontario",
+          "value": "6"
+        },
+        {
+          "key": "Orange",
+          "value": "247"
+        },
+        {
+          "key": "Putnam",
+          "value": "37"
+        },
+        {
+          "key": "Rensselaer",
+          "value": "26"
+        },
+        {
+          "key": "Rockland",
+          "value": "455"
+        },
+        {
+          "key": "Saratoga",
+          "value": "41"
+        },
+        {
+          "key": "Schenectady",
+          "value": "39"
+        },
+        {
+          "key": "Schoharie",
+          "value": "1"
+        },
+        {
+          "key": "St. Lawrence",
+          "value": "1"
+        },
+        {
+          "key": "Steuben",
+          "value": "3"
+        },
+        {
+          "key": "Suffolk",
+          "value": "1,034"
+        },
+        {
+          "key": "Sullivan",
+          "value": "16"
+        },
+        {
+          "key": "Tioga",
+          "value": "1"
+        },
+        {
+          "key": "Tompkins",
+          "value": "13"
+        },
+        {
+          "key": "Ulster",
+          "value": "26"
+        },
+        {
+          "key": "Warren",
+          "value": "1"
+        },
+        {
+          "key": "Washington",
+          "value": "1"
+        },
+        {
+          "key": "Wayne",
+          "value": "3"
+        },
+        {
+          "key": "Westchester",
+          "value": "1,873"
+        },
+        {
+          "key": "Wyoming",
+          "value": "2"
+        },
+        {
+          "key": "Total Number of Positive Cases",
+          "value": "15,168"
+        }
+      ]
+    },
+    "raw_version": "5.0",
+    "raw_source": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
+    "timestr": "2020-03-22T14:15:00-04:00",
+    "timestamp": 1584900900
   }
 ]
