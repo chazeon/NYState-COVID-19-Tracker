@@ -2817,5 +2817,216 @@
     "raw_source": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
     "timestr": "2020-03-22T14:15:00-04:00",
     "timestamp": 1584900900
+  },
+  {
+    "raw_data": {
+      "date_string": "Last Update: March 23, 2020 | 3:03PM",
+      "data": [
+        {
+          "key": "Albany",
+          "value": "127"
+        },
+        {
+          "key": "Allegany",
+          "value": "2"
+        },
+        {
+          "key": "Broome",
+          "value": "7"
+        },
+        {
+          "key": "Cayuga",
+          "value": "2"
+        },
+        {
+          "key": "Chenango",
+          "value": "3"
+        },
+        {
+          "key": "Clinton",
+          "value": "6"
+        },
+        {
+          "key": "Columbia",
+          "value": "10"
+        },
+        {
+          "key": "Cortland",
+          "value": "2"
+        },
+        {
+          "key": "Delaware",
+          "value": "3"
+        },
+        {
+          "key": "Dutchess",
+          "value": "100"
+        },
+        {
+          "key": "Erie",
+          "value": "87"
+        },
+        {
+          "key": "Essex",
+          "value": "3"
+        },
+        {
+          "key": "Fulton",
+          "value": "1"
+        },
+        {
+          "key": "Genesee",
+          "value": "1"
+        },
+        {
+          "key": "Greene",
+          "value": "4"
+        },
+        {
+          "key": "Hamilton",
+          "value": "2"
+        },
+        {
+          "key": "Herkimer",
+          "value": "4"
+        },
+        {
+          "key": "Jefferson",
+          "value": "2"
+        },
+        {
+          "key": "Livingston",
+          "value": "3"
+        },
+        {
+          "key": "Madison",
+          "value": "4"
+        },
+        {
+          "key": "Monroe",
+          "value": "76"
+        },
+        {
+          "key": "Montgomery",
+          "value": "3"
+        },
+        {
+          "key": "Nassau",
+          "value": "2,442"
+        },
+        {
+          "key": "Niagara",
+          "value": "10"
+        },
+        {
+          "key": "New York City",
+          "value": "12,305"
+        },
+        {
+          "key": "Oneida",
+          "value": "7"
+        },
+        {
+          "key": "Onondaga",
+          "value": "52"
+        },
+        {
+          "key": "Ontario",
+          "value": "6"
+        },
+        {
+          "key": "Orange",
+          "value": "389"
+        },
+        {
+          "key": "Oswego",
+          "value": "1"
+        },
+        {
+          "key": "Otsego",
+          "value": "1"
+        },
+        {
+          "key": "Putnam",
+          "value": "45"
+        },
+        {
+          "key": "Rensselaer",
+          "value": "29"
+        },
+        {
+          "key": "Rockland",
+          "value": "592"
+        },
+        {
+          "key": "Saratoga",
+          "value": "53"
+        },
+        {
+          "key": "Schenectady",
+          "value": "44"
+        },
+        {
+          "key": "Schoharie",
+          "value": "1"
+        },
+        {
+          "key": "St. Lawrence",
+          "value": "1"
+        },
+        {
+          "key": "Steuben",
+          "value": "4"
+        },
+        {
+          "key": "Suffolk",
+          "value": "1,458"
+        },
+        {
+          "key": "Sullivan",
+          "value": "23"
+        },
+        {
+          "key": "Tioga",
+          "value": "1"
+        },
+        {
+          "key": "Tompkins",
+          "value": "15"
+        },
+        {
+          "key": "Ulster",
+          "value": "35"
+        },
+        {
+          "key": "Warren",
+          "value": "2"
+        },
+        {
+          "key": "Washington",
+          "value": "3"
+        },
+        {
+          "key": "Wayne",
+          "value": "6"
+        },
+        {
+          "key": "Westchester",
+          "value": "2,894"
+        },
+        {
+          "key": "Wyoming",
+          "value": "4"
+        },
+        {
+          "key": "Total Number of Positive Cases",
+          "value": "20,875"
+        }
+      ]
+    },
+    "raw_version": "5.0",
+    "raw_source": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
+    "timestr": "2020-03-23T15:03:00-04:00",
+    "timestamp": 1584990180
   }
 ]
