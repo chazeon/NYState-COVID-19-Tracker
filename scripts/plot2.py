@@ -125,7 +125,7 @@ for area_name in number_by_area.keys():
     x_array, y_array = remove_duplicate(x_array, y_array)
     x_array, y_array = zip(*sorted(zip(x_array, y_array), key=lambda  item: item[0]))
 
-    if max(y_array) < 50: continue
+    if max(y_array) < 100: continue
 
     color = None 
     linewidth = 1.5
@@ -137,7 +137,7 @@ for area_name in number_by_area.keys():
     line, = plt.plot_date(x_array, y_array, marker="o", linestyle="-", label=area_name, linewidth=linewidth, color=color)
 
     for x, y in zip(x_array, y_array):
-        if y < 10: continue
+        if y < 100: continue
         plt.text(x, y*1.1, str(y), va="bottom", ha="center", size=6, c=line.get_color())
 
     # print(calc_doubling_date(x_array, y_array))
@@ -171,9 +171,9 @@ plt.gca().yaxis.set_minor_locator(NullLocator())
 
 #plt.title("New York State COVID-19 positive case count (county with > 100 cases)")
 
-plt.xlim(left=arrow.get("2020-03-03"))
+plt.xlim(left=arrow.get("2020-03-09"))
 plt.xlim(right=1.05*(plt.xlim()[1] - plt.xlim()[0])+plt.xlim()[0])
-plt.ylim(bottom=10)
+plt.ylim(bottom=100)
 
 # plt.legend()
 plt.tight_layout()
