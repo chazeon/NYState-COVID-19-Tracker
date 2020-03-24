@@ -159,12 +159,13 @@ plt.ylabel("Positive cases")
 
 from matplotlib.dates import AutoDateLocator, DateFormatter
 from matplotlib.ticker import LogLocator, NullLocator, LogFormatter
+from util import LogFormatterSI
 
 plt.gca().xaxis.set_major_locator(AutoDateLocator())
 plt.gca().xaxis.set_major_formatter(DateFormatter("%m/%d"))
 #plt.gca().xaxis.set_minor_locator(AutoDateLocator())
 plt.gca().yaxis.set_major_locator(LogLocator(subs=(1, 2, 5)))
-plt.gca().yaxis.set_major_formatter(LogFormatter(labelOnlyBase=False, minor_thresholds=(numpy.inf, numpy.inf)))
+plt.gca().yaxis.set_major_formatter(LogFormatterSI(labelOnlyBase=False, minor_thresholds=(numpy.inf, numpy.inf)))
 plt.gca().yaxis.set_minor_locator(NullLocator())
 
 
