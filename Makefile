@@ -20,3 +20,5 @@ update:
 update-pdf:
 	python3 scripts/extract_nyc_pdf.py documents/NYC-covid-19-daily-data-summary data/NYC-covid-19-daily-data-summary.csv
 	python3 scripts/extract_nyc_pdf.py documents/NYC-covid-19-daily-data-summary-deaths data/NYC-covid-19-daily-data-summary-deaths.csv
+	python3 scripts/plot3.py
+	python3 scripts/plot4.py

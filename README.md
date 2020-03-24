@@ -6,6 +6,8 @@ Positive cases tracker for New York State.
 
 ![](plots/NYState3.png)
 ![](plots/NYState2.png)
+![](plots/NYState4.png)
+![](plots/NYState5.png)
 
 ## Usage
 
@@ -13,10 +15,11 @@ Positive cases tracker for New York State.
 
 ```bash
 make update
+make update-pdf
 make upload
 ```
 
 
 ## Dependencies
 
-Matplotlib, requests and arrow.
+Matplotlib, requests camelot and arrow.
