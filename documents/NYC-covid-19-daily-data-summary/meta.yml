@@ -5,6 +5,7 @@ file_time:
   20200321.pdf: 2020-03-21T17:30:00-4:00
   20200323.pdf: 2020-03-23T17:00:00-4:00
   20200324.pdf: 2020-03-24T09:45:00-4:00
+  20200324-2.pdf: 2020-03-24T17:00:00-4:00
 altkeys:
   Number of Confirmed Cases: Total
 flavor: lattice
