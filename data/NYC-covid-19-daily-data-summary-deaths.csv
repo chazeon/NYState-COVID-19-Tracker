@@ -1,17 +1,17 @@
-Group,Subgroup,2020-03-22 13:54:00,2020-03-23 21:00:00,2020-03-24 21:00:00
-Age Group,0 to 17,0,0,0
-Age Group,18 to 44,0,3,5
-Age Group,45 to 64,17,31,43
-Age Group,65 to 74,12,23,44
-Age Group,75 and over,34,68,100
-Sex,Female,20,47,74
-Sex,Male,43,78,118
-Borough,Bronx,14,28,41
-Borough,Brooklyn,14,27,42
-Borough,Manhattan,10,19,30
-Borough,Queens,21,40,61
-Borough,Staten Island,4,11,18
-Total,,63,125,192
-Underlying Illness1,Yes,,101,158
-Underlying Illness1,No,,9,8
-Underlying Illness1,Pending Investigation,,15,26
+Group,Subgroup,2020-03-22 13:54:00,2020-03-23 21:00:00,2020-03-24 21:00:00,2020-03-25 13:15:00
+Age Group,0 to 17,0,0,0,0
+Age Group,18 to 44,0,3,5,5
+Age Group,45 to 64,17,31,43,45
+Age Group,65 to 74,12,23,44,46
+Age Group,75 and over,34,68,100,103
+Sex,Female,20,47,74,77
+Sex,Male,43,78,118,122
+Borough,Bronx,14,28,41,43
+Borough,Brooklyn,14,27,42,43
+Borough,Manhattan,10,19,30,30
+Borough,Queens,21,40,61,65
+Borough,Staten Island,4,11,18,18
+Total,,63,125,192,199
+Underlying Illness1,Yes,,101,158,166
+Underlying Illness1,No,,9,8,9
+Underlying Illness1,Pending Investigation,,15,26,24
