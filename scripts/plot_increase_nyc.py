@@ -1,8 +1,8 @@
-import csv
-from matplotlib import pyplot as plt
-import arrow
+from util import timeseries_rate
 
-plt.figure()
+import csv, arrow
+from matplotlib import pyplot as plt
+
 
 with open("data/NYC-covid-19-daily-data-summary.csv") as fp:
     reader = csv.DictReader(fp)
@@ -17,15 +17,13 @@ with open("data/NYC-covid-19-daily-data-summary.csv") as fp:
         )
         time_array = list(area_data.keys())
         count_array = list(area_data.values())
+        time_new, rate_new = timeseries_rate(time_array, count_array)
         line, = plt.plot_date(
-            time_array, count_array,
-            ls="-", marker="o", lw=1.5,
+            time_new, rate_new,
+            ls="-", marker=None, lw=1.5,
             label=location
         )
 
-        for x, y in zip(time_array, count_array):
-            if y < 10: continue
-            plt.text(x, y*1.1, str(y), va="bottom", ha="center", size=6, c=line.get_color())
 
 with open("data/NYC-covid-19-daily-data-summary.csv") as fp:
     reader = csv.DictReader(fp)
@@ -38,22 +36,18 @@ with open("data/NYC-covid-19-daily-data-summary.csv") as fp:
         )
         time_array = list(area_data.keys())
         count_array = list(area_data.values())
+        time_new, rate_new = timeseries_rate(time_array, count_array)
         line, = plt.plot_date(
-            time_array, count_array,
-            ls="-", marker="o", lw=2.5,
+            time_new, rate_new,
+            ls="-", marker=None, lw=2.5,
             label="NYC Total",
             c="k"
         )
 
-        for x, y in zip(time_array, count_array):
-            if y < 10: continue
-            plt.text(x, y*1.1, str(y), va="bottom", ha="center", size=6, c=line.get_color())
-
-
 plt.semilogy()
-
+        
 plt.xlabel("Time")
-plt.ylabel("Positive case")
+plt.ylabel("Case increase")
 
 from matplotlib.dates import AutoDateLocator, DateFormatter
 from matplotlib.ticker import LogLocator, NullLocator, LogFormatter
@@ -62,17 +56,16 @@ import numpy
 
 plt.gca().xaxis.set_major_locator(AutoDateLocator())
 plt.gca().xaxis.set_major_formatter(DateFormatter("%m/%d"))
-#plt.gca().xaxis.set_minor_locator(AutoDateLocator())
+plt.gca().xaxis.set_minor_locator(AutoDateLocator())
 plt.gca().yaxis.set_major_locator(LogLocator(subs=(1, 2, 5)))
 plt.gca().yaxis.set_major_formatter(LogFormatterSI(labelOnlyBase=False, minor_thresholds=(numpy.inf, numpy.inf)))
 plt.gca().yaxis.set_minor_locator(NullLocator())
 
 
-plt.title("New York City COVID-19 positive case count")
+plt.title("New York City COVID-19 daily case increase (approx.)")
 
 #plt.xlim(left=arrow.get("2020-03-01"))
 #plt.ylim(bottom=10)
 
 plt.legend()
-plt.savefig("plots/NYState4.png", dpi=300)
-
+plt.savefig("plots/rate.png")
