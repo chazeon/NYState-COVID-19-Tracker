@@ -1,2 +1,2 @@
 from .si_formatter import LogFormatterSI
-from .rate import calc_timeseries_rate as timeseries_rate
+from .rate2 import calc_timeseries_rate as timeseries_rate

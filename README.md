@@ -4,10 +4,19 @@ Positive cases tracker for New York State.
 
 ## Result
 
+### Total
+
 ![](plots/NYState3.png)
 ![](plots/NYState2.png)
 ![](plots/NYState4.png)
 ![](plots/NYState5.png)
+
+
+### An estimation of increacement 
+
+
+![](plots/rate_nys.png)
+![](plots/rate.png)
 
 ## Usage
 

@@ -17,7 +17,10 @@ with open("data/positive_cases.csv") as fp:
         time_array = list(area_data.keys())[1:]
         count_array = list(area_data.values())[1:]
         if len(count_array) < 5: continue
-        time_new, rate_new = timeseries_rate(time_array, count_array)
+        try:
+            time_new, rate_new = timeseries_rate(time_array, count_array)
+        except Exception:
+            continue
         if max(rate_new) < 100: continue
         line, = plt.plot_date(
             time_new, rate_new,
@@ -39,7 +42,10 @@ with open("data/positive_cases.csv") as fp:
         time_array = list(area_data.keys())[1:]
         count_array = list(area_data.values())[1:]
         if len(count_array) < 5: continue
-        time_new, rate_new = timeseries_rate(time_array, count_array)
+        try:
+            time_new, rate_new = timeseries_rate(time_array, count_array)
+        except Exception:
+            continue
         line, = plt.plot_date(
             time_new, rate_new,
             ls="-", marker=None, lw=2.5,
