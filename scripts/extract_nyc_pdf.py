@@ -51,9 +51,7 @@ def dump_csv(dir_from, csv_to):
         if file_time[fname] == "":
             try:
                 file_time[fname] = extract_date(dir_from / fname)
-                print(file_time[fname])
             except Exception as e:
-                raise e
                 continue
 
         ftime = file_time[fname]
