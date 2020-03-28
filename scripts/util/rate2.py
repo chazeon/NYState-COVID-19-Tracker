@@ -2,6 +2,7 @@ import scipy.interpolate
 import scipy.stats
 import numpy
 import datetime
+from dateutil import tz
 
 def calc_rate(x_array, y_array,  window=4, num=100, Interpolator=scipy.interpolate.InterpolatedUnivariateSpline):
 
@@ -25,6 +26,6 @@ def calc_rate(x_array, y_array,  window=4, num=100, Interpolator=scipy.interpola
 def calc_timeseries_rate(t_array, y_array):
     x_array = [t.timestamp for t in t_array]
     x_new, dy_dx_new = calc_rate(x_array, y_array)
-    t_new = [datetime.datetime.fromtimestamp(x) for x in x_new]
+    t_new = [datetime.datetime.fromtimestamp(x, tz=tz.gettz('US/Eastern')) for x in x_new]
     dy_dt_new = dy_dx_new * (3600 * 24)
     return t_new, dy_dt_new
