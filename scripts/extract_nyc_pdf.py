@@ -8,6 +8,7 @@ import csv
 import yaml
 from pathlib import Path
 from collections import OrderedDict
+from util.extract_date import extract_date
 
 locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 
@@ -42,9 +43,25 @@ def dump_csv(dir_from, csv_to):
         flist = yaml.load(fp, yaml.SafeLoader)
 
     res = {}
-    for fname, ftime in flist["file_time"].items():
-        res[ftime] = dict(process_table(str(dir_from / fname), altkey=flist["altkeys"], flavor=flist["flavor"]))
 
+    file_time = flist["file_time"]
+
+    for fname in file_time.keys():
+
+        if file_time[fname] == "":
+            try:
+                file_time[fname] = extract_date(dir_from / fname)
+                print(file_time[fname])
+            except Exception as e:
+                raise e
+                continue
+
+        ftime = file_time[fname]
+        
+        res[ftime] = dict(process_table(str(dir_from / fname), altkey=flist["altkeys"], flavor=flist["flavor"]))
+    
+    with open(dir_from / "meta.yml", "w") as fp:
+        yaml.dump(flist, fp, yaml.SafeDumper)
     
     res_by_group = OrderedDict.fromkeys(key for value in res.values() for key, count in value.items())
     for key in res_by_group.keys():
@@ -55,6 +72,7 @@ def dump_csv(dir_from, csv_to):
         )
     
     with open(csv_to, "w") as fp:
+        print(flist["file_time"])
         writer = csv.DictWriter(fp, fieldnames=["Group", "Subgroup", *flist["file_time"].values()])
         writer.writeheader()
         #for item in res_by_group.items():
