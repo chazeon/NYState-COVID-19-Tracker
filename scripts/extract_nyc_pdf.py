@@ -21,8 +21,9 @@ def process_table(fname, altkey: dict = None, *args, **argv):
         group = None
         subgroup = None
         for row in extract_table(fname, *args, **argv):
-            if len(row) != 2: continue
-            key, val = row
+            #if len(row) != 2: continue
+            key = row[0]
+            val = row[-1]
             if key in altkey.keys(): key = altkey[key]
             if re.search(r"^\-\s+", key):
                 subgroup = re.sub(r"^\-\s+", "", key)
