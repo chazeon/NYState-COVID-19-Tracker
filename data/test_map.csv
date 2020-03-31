@@ -1,0 +1,127 @@
+Neighborhood ID,Neighborhood Name,Borough,Date,Test Positive Percentage Min,Test Positive Percentage Max
+101,Kingsbridge - Riverdale,Bronx,2020-03-26,30.12,40.85
+102,Northeast Bronx,Bronx,2020-03-26,46.34,51.26
+103,Fordham - Bronx Park,Bronx,2020-03-26,46.34,51.26
+104,Pelham - Throgs Neck,Bronx,2020-03-26,46.34,51.26
+105,Crotona - Tremont,Bronx,2020-03-26,46.34,51.26
+106,High Bridge - Morrisania,Bronx,2020-03-26,51.26,65.41
+107,Hunts Point - Mott Haven,Bronx,2020-03-26,40.85,46.34
+201,Greenpoint,Brooklyn,2020-03-26,51.26,65.41
+202,Downtown  - Heights - Slope,Brooklyn,2020-03-26,40.85,46.34
+203,Bedford Stuyvesant - Crown Heights,Brooklyn,2020-03-26,51.26,65.41
+204,East New York,Brooklyn,2020-03-26,46.34,51.26
+205,Sunset Park,Brooklyn,2020-03-26,46.34,51.26
+206,Borough Park,Brooklyn,2020-03-26,51.26,65.41
+207,East Flatbush - Flatbush,Brooklyn,2020-03-26,51.26,65.41
+208,Canarsie - Flatlands,Brooklyn,2020-03-26,46.34,51.26
+209,Bensonhurst - Bay Ridge,Brooklyn,2020-03-26,30.12,40.85
+210,Coney Island - Sheepshead Bay,Brooklyn,2020-03-26,46.34,51.26
+211,Williamsburg - Bushwick,Brooklyn,2020-03-26,51.26,65.41
+301,Washington Heights - Inwood,Manhattan,2020-03-26,40.85,46.34
+302,Central Harlem - Morningside Heights,Manhattan,2020-03-26,40.85,46.34
+303,East Harlem,Manhattan,2020-03-26,30.12,40.85
+304,Upper West Side,Manhattan,2020-03-26,30.12,40.85
+305,Upper East Side,Manhattan,2020-03-26,30.12,40.85
+306,Chelsea - Clinton,Manhattan,2020-03-26,40.85,46.34
+307,Gramercy Park -  Murray Hill,Manhattan,2020-03-26,30.12,40.85
+308,Greenwich Village - Soho,Manhattan,2020-03-26,30.12,40.85
+309,Union Square - Lower East Side,Manhattan,2020-03-26,30.12,40.85
+310,Lower Manhattan,Manhattan,2020-03-26,30.12,40.85
+401,Long Island City - Astoria,Queens,2020-03-26,40.85,46.34
+402,West Queens,Queens,2020-03-26,51.26,65.41
+403,Flushing - Clearview,Queens,2020-03-26,40.85,46.34
+404,Bayside - Little Neck,Queens,2020-03-26,30.12,40.85
+405,Ridgewood - Forest Hills,Queens,2020-03-26,46.34,51.26
+406,Fresh Meadows,Queens,2020-03-26,51.26,65.41
+407,Southwest Queens,Queens,2020-03-26,46.34,51.26
+408,Jamaica,Queens,2020-03-26,51.26,65.41
+409,Southeast Queens,Queens,2020-03-26,51.26,65.41
+410,Rockaway,Queens,2020-03-26,51.26,65.41
+501,Port  Richmond,Staten Island,2020-03-26,30.12,40.85
+502,Stapleton - St. George,Staten Island,2020-03-26,40.85,46.34
+503,Willowbrook,Staten Island,2020-03-26,40.85,46.34
+504,South Beach - Tottenville,Staten Island,2020-03-26,40.85,46.34
+101,Kingsbridge - Riverdale,Bronx,2020-03-29,32.56,44.24
+102,Northeast Bronx,Bronx,2020-03-29,51.28,55.98
+103,Fordham - Bronx Park,Bronx,2020-03-29,51.28,55.98
+104,Pelham - Throgs Neck,Bronx,2020-03-29,51.28,55.98
+105,Crotona - Tremont,Bronx,2020-03-29,51.28,55.98
+106,High Bridge - Morrisania,Bronx,2020-03-29,55.98,70.85
+107,Hunts Point - Mott Haven,Bronx,2020-03-29,44.24,51.28
+201,Greenpoint,Brooklyn,2020-03-29,55.98,70.85
+202,Downtown  - Heights - Slope,Brooklyn,2020-03-29,32.56,44.24
+203,Bedford Stuyvesant - Crown Heights,Brooklyn,2020-03-29,55.98,70.85
+204,East New York,Brooklyn,2020-03-29,55.98,70.85
+205,Sunset Park,Brooklyn,2020-03-29,51.28,55.98
+206,Borough Park,Brooklyn,2020-03-29,55.98,70.85
+207,East Flatbush - Flatbush,Brooklyn,2020-03-29,55.98,70.85
+208,Canarsie - Flatlands,Brooklyn,2020-03-29,51.28,55.98
+209,Bensonhurst - Bay Ridge,Brooklyn,2020-03-29,32.56,44.24
+210,Coney Island - Sheepshead Bay,Brooklyn,2020-03-29,51.28,55.98
+211,Williamsburg - Bushwick,Brooklyn,2020-03-29,55.98,70.85
+301,Washington Heights - Inwood,Manhattan,2020-03-29,44.24,51.28
+302,Central Harlem - Morningside Heights,Manhattan,2020-03-29,44.24,51.28
+303,East Harlem,Manhattan,2020-03-29,44.24,51.28
+304,Upper West Side,Manhattan,2020-03-29,32.56,44.24
+305,Upper East Side,Manhattan,2020-03-29,32.56,44.24
+306,Chelsea - Clinton,Manhattan,2020-03-29,32.56,44.24
+307,Gramercy Park -  Murray Hill,Manhattan,2020-03-29,32.56,44.24
+308,Greenwich Village - Soho,Manhattan,2020-03-29,44.24,51.28
+309,Union Square - Lower East Side,Manhattan,2020-03-29,32.56,44.24
+310,Lower Manhattan,Manhattan,2020-03-29,32.56,44.24
+401,Long Island City - Astoria,Queens,2020-03-29,44.24,51.28
+402,West Queens,Queens,2020-03-29,55.98,70.85
+403,Flushing - Clearview,Queens,2020-03-29,44.24,51.28
+404,Bayside - Little Neck,Queens,2020-03-29,32.56,44.24
+405,Ridgewood - Forest Hills,Queens,2020-03-29,51.28,55.98
+406,Fresh Meadows,Queens,2020-03-29,51.28,55.98
+407,Southwest Queens,Queens,2020-03-29,51.28,55.98
+408,Jamaica,Queens,2020-03-29,55.98,70.85
+409,Southeast Queens,Queens,2020-03-29,55.98,70.85
+410,Rockaway,Queens,2020-03-29,55.98,70.85
+501,Port  Richmond,Staten Island,2020-03-29,32.56,44.24
+502,Stapleton - St. George,Staten Island,2020-03-29,44.24,51.28
+503,Willowbrook,Staten Island,2020-03-29,44.24,51.28
+504,South Beach - Tottenville,Staten Island,2020-03-29,44.24,51.28
+101,Kingsbridge - Riverdale,Bronx,2020-03-30,33.46,45.51
+102,Northeast Bronx,Bronx,2020-03-30,51.99,57.55
+103,Fordham - Bronx Park,Bronx,2020-03-30,51.99,57.55
+104,Pelham - Throgs Neck,Bronx,2020-03-30,51.99,57.55
+105,Crotona - Tremont,Bronx,2020-03-30,51.99,57.55
+106,High Bridge - Morrisania,Bronx,2020-03-30,57.55,72.33
+107,Hunts Point - Mott Haven,Bronx,2020-03-30,45.51,51.99
+201,Greenpoint,Brooklyn,2020-03-30,57.55,72.33
+202,Downtown  - Heights - Slope,Brooklyn,2020-03-30,33.46,45.51
+203,Bedford Stuyvesant - Crown Heights,Brooklyn,2020-03-30,51.99,57.55
+204,East New York,Brooklyn,2020-03-30,57.55,72.33
+205,Sunset Park,Brooklyn,2020-03-30,51.99,57.55
+206,Borough Park,Brooklyn,2020-03-30,57.55,72.33
+207,East Flatbush - Flatbush,Brooklyn,2020-03-30,57.55,72.33
+208,Canarsie - Flatlands,Brooklyn,2020-03-30,51.99,57.55
+209,Bensonhurst - Bay Ridge,Brooklyn,2020-03-30,33.46,45.51
+210,Coney Island - Sheepshead Bay,Brooklyn,2020-03-30,51.99,57.55
+211,Williamsburg - Bushwick,Brooklyn,2020-03-30,57.55,72.33
+301,Washington Heights - Inwood,Manhattan,2020-03-30,45.51,51.99
+302,Central Harlem - Morningside Heights,Manhattan,2020-03-30,45.51,51.99
+303,East Harlem,Manhattan,2020-03-30,33.46,45.51
+304,Upper West Side,Manhattan,2020-03-30,33.46,45.51
+305,Upper East Side,Manhattan,2020-03-30,33.46,45.51
+306,Chelsea - Clinton,Manhattan,2020-03-30,33.46,45.51
+307,Gramercy Park -  Murray Hill,Manhattan,2020-03-30,45.51,51.99
+308,Greenwich Village - Soho,Manhattan,2020-03-30,45.51,51.99
+309,Union Square - Lower East Side,Manhattan,2020-03-30,33.46,45.51
+310,Lower Manhattan,Manhattan,2020-03-30,33.46,45.51
+401,Long Island City - Astoria,Queens,2020-03-30,45.51,51.99
+402,West Queens,Queens,2020-03-30,57.55,72.33
+403,Flushing - Clearview,Queens,2020-03-30,45.51,51.99
+404,Bayside - Little Neck,Queens,2020-03-30,33.46,45.51
+405,Ridgewood - Forest Hills,Queens,2020-03-30,51.99,57.55
+406,Fresh Meadows,Queens,2020-03-30,57.55,72.33
+407,Southwest Queens,Queens,2020-03-30,51.99,57.55
+408,Jamaica,Queens,2020-03-30,57.55,72.33
+409,Southeast Queens,Queens,2020-03-30,57.55,72.33
+410,Rockaway,Queens,2020-03-30,57.55,72.33
+501,Port  Richmond,Staten Island,2020-03-30,33.46,45.51
+502,Stapleton - St. George,Staten Island,2020-03-30,45.51,51.99
+503,Willowbrook,Staten Island,2020-03-30,45.51,51.99
+504,South Beach - Tottenville,Staten Island,2020-03-30,45.51,51.99

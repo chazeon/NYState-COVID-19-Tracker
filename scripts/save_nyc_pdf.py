@@ -71,11 +71,7 @@ def archive_url(output_dir: str, url: str):
     if hashsum in {hash_file(fname) for fname in fnames_latest}:
         output_path.unlink()
     else:
-        try:
-            date = extract_date(output_path)
-            write_meta(output_dir, {f"{stem}.pdf": date})
-        except Exception:
-            write_meta(output_dir, {f"{stem}.pdf": ""})
+        write_meta(output_dir, {f"{stem}.pdf": ""})
 
 if __name__ == "__main__":
     import sys
@@ -84,3 +80,4 @@ if __name__ == "__main__":
     archive_url("documents/NYC-covid-19-daily-data-summary", "https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf")
     archive_url("documents/NYC-covid-19-daily-data-summary-deaths", "https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-deaths.pdf")
     archive_url("documents/NYC-covid-19-daily-data-summary-hospitalizations", "https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-hospitalizations.pdf")
+    archive_url("documents/NYC-covid-19-data-map", "https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-data-map.pdf")
