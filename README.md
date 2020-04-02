@@ -10,6 +10,7 @@ Positive cases tracker for New York State.
 ![](plots/NYState2.png)
 ![](plots/NYState4.png)
 ![](plots/NYState5.png)
+![](plots/NYC-Hospitalizations-total.png)
 
 
 ### An estimation of increacement 
