@@ -16,7 +16,7 @@ def extract_table(fname, *args, **argv):
     table = camelot.read_pdf(fname, *args, **argv)
     return table[table.n - 1].data
 
-def process_table(fname, altkey: dict = None, *args, **argv):
+def process_table(fname, altkey: dict = None, icol: int = -1, *args, **argv):
     if altkey == None: altkey = {}
     def yield_row():
         group = None
@@ -24,7 +24,7 @@ def process_table(fname, altkey: dict = None, *args, **argv):
         for row in extract_table(fname, *args, **argv):
             #if len(row) != 2: continue
             key = row[0]
-            val = row[-1]
+            val = row[icol]
             if key in altkey.keys(): key = altkey[key]
             if re.search(r"^\-\s+", key):
                 subgroup = re.sub(r"^\-\s+", "", key)
@@ -36,7 +36,7 @@ def process_table(fname, altkey: dict = None, *args, **argv):
                 yield (group, subgroup), locale.atoi(res.group(1))
     return list(yield_row())
 
-def dump_csv(dir_from, csv_to):
+def dump_csv(dir_from, csv_to, icol: int):
     dir_from = Path(dir_from)
 
     with open(dir_from / "meta.yml") as fp:
@@ -56,7 +56,7 @@ def dump_csv(dir_from, csv_to):
 
         ftime = file_time[fname]
         
-        res[ftime] = dict(process_table(str(dir_from / fname), altkey=flist["altkeys"], flavor=flist["flavor"]))
+        res[ftime] = dict(process_table(str(dir_from / fname), icol = icol, altkey=flist["altkeys"], flavor=flist["flavor"]))
     
     with open(dir_from / "meta.yml", "w") as fp:
         yaml.dump(flist, fp, yaml.SafeDumper)
@@ -86,4 +86,4 @@ def dump_csv(dir_from, csv_to):
 
 if __name__ == "__main__":
     import sys
-    dump_csv(sys.argv[1], sys.argv[2])
+    dump_csv(sys.argv[1], sys.argv[2], int(sys.argv[3]))
