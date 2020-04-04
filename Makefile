@@ -3,7 +3,7 @@ DATE=`date`
 pull:
 	git pull origin master
 
-upload: update
+upload:
 	git add plots/
 	git add data/
 	git add documents/
@@ -22,7 +22,7 @@ update-nys: pull
 	python3 scripts/plot_increase_nys.py
 
 update-pdf: pull
-	python3 scripts/save_nyc_pdf.py
+	python3 scripts/save_nyc_pdf_v2.py
 	python3 scripts/extract_nyc_pdf.py documents/NYC-covid-19-daily-data-summary data/NYC-covid-19-daily-data-summary.csv 1
 	python3 scripts/extract_nyc_pdf.py documents/NYC-covid-19-daily-data-summary-deaths data/NYC-covid-19-daily-data-summary-deaths.csv -1
 	python3 scripts/extract_nyc_pdf.py documents/NYC-covid-19-daily-data-summary-hospitalizations data/NYC-covid-19-daily-data-summary-hospitalizations.csv 1
@@ -30,6 +30,11 @@ update-pdf: pull
 	python3 scripts/plot4.py
 	python3 scripts/plot5.py
 	python3 scripts/plot_increase_nyc.py
-	python3 scripts/extract_map_nyc.py
+	# python3 scripts/extract_map_nyc.py
 
-update: update-nys update-pdf
+update: update-pdf
+
+update-remote: pull
+	python3 scripts/save_nyc_pdf_v2.py
+
+upload-remote: update-remote upload
