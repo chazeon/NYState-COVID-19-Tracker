@@ -3,7 +3,6 @@ from pathlib import Path
 import hashlib
 import arrow, datetime
 import yaml
-from util.extract_date import extract_date
 from bs4 import BeautifulSoup
 import urllib.parse
 import re
