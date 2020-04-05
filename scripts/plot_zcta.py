@@ -71,8 +71,8 @@ if __name__ == "__main__":
             color=colors[uhf_data["borough"]],
             va="center", ha="left", size=6, alpha=.8)
 
-    plt.xlabel("Total tested for COVID-19")
-    plt.ylabel("Total positive for COVID-19")
+    plt.xlabel("Daily tested for COVID-19")
+    plt.ylabel("Daily positive for COVID-19")
 
     plt.legend([
         lines.Line2D([], [], c=color, marker="o")
