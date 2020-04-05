@@ -47,8 +47,8 @@ def make_fname(lfnames: list):
     fid = max(0, len(lfnames), *[parse_fname(fname)[1] for fname in lfnames]) + 1
     return f"{datetime.datetime.now().strftime('%Y%m%d')}-{fid}"
 
-def unparse_fname(tup):
-    return f"{tup[0].strftime('%Y%m%d')}-{tup[1]}.pdf"
+def unparse_fname(tup, ext="pdf"):
+    return f"{tup[0].strftime('%Y%m%d')}-{tup[1]}.{ext}"
 
 def write_meta(output_dir: str, info: dict):
     output_dir = Path(output_dir)
@@ -60,11 +60,11 @@ def write_meta(output_dir: str, info: dict):
     with open(output_dir / "meta.yml", "w") as fp:
         yaml.dump(meta, fp, Dumper=yaml.SafeDumper)
 
-def archive_url(output_dir: str, url: str):
+def archive_url(output_dir: str, url: str, ext: str = "pdf"):
     output_dir = Path(output_dir)
-    lfnames = list(output_dir.glob("*.pdf"))
+    lfnames = list(output_dir.glob(f"*.{ext}"))
     stem = make_fname(lfnames)
-    output_path = output_dir / f"{stem}.pdf"
+    output_path = output_dir / f"{stem}.{ext}"
     save_url(output_path, url)
     hashsum = hash_file(output_path)
     fnames_latest = sorted([parse_fname(fname) for fname in lfnames])[-5:]
@@ -73,7 +73,7 @@ def archive_url(output_dir: str, url: str):
     if hashsum in {hash_file(fname) for fname in fnames_latest}:
         output_path.unlink()
     else:
-        write_meta(output_dir, {f"{stem}.pdf": ""})
+        write_meta(output_dir, {f"{stem}.{ext}": ""})
 
 def check_pdf_urls():
     URL = "https://www1.nyc.gov/site/doh/covid/covid-19-data.page"
@@ -101,7 +101,5 @@ if __name__ == "__main__":
         }:
             if re.search("/" + key + r"-\d{8,8}-\d+.pdf", url):
                 archive_url(f"documents/NYC-{key}", url)
-        # if "covid-19-daily-data-summary" in url:
-    # archive_url("documents/NYC-covid-19-daily-data-summary", "https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf")
-    # archive_url("documents/NYC-covid-19-daily-data-summary-deaths", "https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-deaths.pdf")
-    # archive_url("documents/NYC-covid-19-daily-data-summary-hospitalizations", "https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-hospitalizations.pdf")
+
+    archive_url(f"documents/NYC-github-coronavirus-data-tests-by-zcta", "https://raw.githubusercontent.com/nychealth/coronavirus-data/master/tests-by-zcta.csv", ext="csv")

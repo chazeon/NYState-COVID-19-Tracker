@@ -66,13 +66,13 @@ def extract_data(fname):
     neighbor_data = []
     neighbor_map = get_neighbor_map()
     #print(segmentation)
-    for neighbor_code, severity in extract_pdf_data(fname):
-        neighbor_data.append({
-            "borough": nyc_boroughs[neighbor_code // 100],
-            "neighbor_id": neighbor_code,
-            "neighbor_name": neighbor_map[neighbor_code],
-            "test_positive_rate_range": segmentation[severity - 1]
-        })
+    # for neighbor_code, severity in extract_pdf_data(fname):
+    #     neighbor_data.append({
+    #         "borough": nyc_boroughs[neighbor_code // 100],
+    #         "neighbor_id": neighbor_code,
+    #         "neighbor_name": neighbor_map[neighbor_code],
+    #         "test_positive_rate_range": segmentation[severity - 1]
+    #     })
     return {
         "time": date.datetime,
         "date": date.date(),

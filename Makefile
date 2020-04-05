@@ -3,7 +3,7 @@ DATE=`date`
 pull:
 	git pull origin master
 
-upload:
+upload: 
 	git add plots/
 	git add data/
 	git add documents/
@@ -30,6 +30,7 @@ update-pdf: pull
 	python3 scripts/plot4.py
 	python3 scripts/plot5.py
 	python3 scripts/plot_increase_nyc.py
+	python3 scripts/extract_nyc_test_by_zcta.py
 	# python3 scripts/extract_map_nyc.py
 
 update: update-pdf
@@ -38,3 +39,4 @@ update-remote: pull
 	python3 scripts/save_nyc_pdf_v2.py
 
 upload-remote: update-remote upload
+upload-laptop: update-pdf upload

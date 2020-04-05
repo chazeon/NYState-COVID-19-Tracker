@@ -1,0 +1,179 @@
+zip_code,neighborhood_name,uhf_code,uhf_name,borough
+10001,Chelsea - Clinton,306,Chelsea and Clinton,Manhattan
+10002,Union Square - Lower East Side,309,Lower East Side,Manhattan
+10003,Union Square - Lower East Side,309,Lower East Side,Manhattan
+10004,Lower Manhattan,310,Lower Manhattan,Manhattan
+10005,Lower Manhattan,310,Lower Manhattan,Manhattan
+10006,Lower Manhattan,310,Lower Manhattan,Manhattan
+10007,Lower Manhattan,310,Lower Manhattan,Manhattan
+10009,Union Square - Lower East Side,309,Lower East Side,Manhattan
+10010,Gramercy Park - Murray Hill,,Gramercy Park and Murray Hill,Manhattan
+10011,Chelsea - Clinton,306,Chelsea and Clinton,Manhattan
+10012,Greenwich Village - Soho,308,Greenwich Village and Soho,Manhattan
+10013,Greenwich Village - Soho,308,Greenwich Village and Soho,Manhattan
+10014,Greenwich Village - Soho,308,Greenwich Village and Soho,Manhattan
+10016,Gramercy Park - Murray Hill,,Gramercy Park and Murray Hill,Manhattan
+10017,Gramercy Park - Murray Hill,,Gramercy Park and Murray Hill,Manhattan
+10018,Chelsea - Clinton,306,Chelsea and Clinton,Manhattan
+10019,Chelsea - Clinton,306,Chelsea and Clinton,Manhattan
+10020,Chelsea - Clinton,306,Chelsea and Clinton,Manhattan
+10021,Upper East Side,305,Upper East Side,Manhattan
+10022,Gramercy Park - Murray Hill,,Gramercy Park and Murray Hill,Manhattan
+10023,Upper West Side,304,Upper West Side,Manhattan
+10024,Upper West Side,304,Upper West Side,Manhattan
+10025,Upper West Side,304,Upper West Side,Manhattan
+10026,Central Harlem - Morningside Heights,302,Central Harlem,Manhattan
+10027,Central Harlem - Morningside Heights,302,Central Harlem,Manhattan
+10028,Upper East Side,305,Upper East Side,Manhattan
+10029,East Harlem,303,East Harlem,Manhattan
+10030,Central Harlem - Morningside Heights,302,Central Harlem,Manhattan
+10031,Washington Heights - Inwood,301,Inwood and Washington Heights,Manhattan
+10032,Washington Heights - Inwood,301,Inwood and Washington Heights,Manhattan
+10033,Washington Heights - Inwood,301,Inwood and Washington Heights,Manhattan
+10034,Washington Heights - Inwood,301,Inwood and Washington Heights,Manhattan
+10035,East Harlem,303,East Harlem,Manhattan
+10036,Chelsea - Clinton,306,Chelsea and Clinton,Manhattan
+10037,Central Harlem - Morningside Heights,302,Central Harlem,Manhattan
+10038,Lower Manhattan,310,Lower Manhattan,Manhattan
+10039,Central Harlem - Morningside Heights,302,Central Harlem,Manhattan
+10040,Washington Heights - Inwood,301,Inwood and Washington Heights,Manhattan
+10044,Upper East Side,305,Upper East Side,Manhattan
+10065,Upper East Side,305,Upper East Side,Manhattan
+10075,Upper East Side,305,Upper East Side,Manhattan
+10128,Upper East Side,305,Upper East Side,Manhattan
+10280,Lower Manhattan,310,Lower Manhattan,Manhattan
+10301,Stapleton -  St. George,502,Stapleton and St. George,Staten Island
+10302,Port Richmond,501,Port Richmond,Staten Island
+10303,Port Richmond,501,Port Richmond,Staten Island
+10304,Stapleton -  St. George,502,Stapleton and St. George,Staten Island
+10305,Stapleton -  St. George,502,Stapleton and St. George,Staten Island
+10306,South Beach - Tottenville,504,South Shore,Staten Island
+10307,South Beach - Tottenville,504,South Shore,Staten Island
+10308,South Beach - Tottenville,504,South Shore,Staten Island
+10309,South Beach - Tottenville,504,South Shore,Staten Island
+10310,Port Richmond,501,Port Richmond,Staten Island
+10312,South Beach - Tottenville,504,South Shore,Staten Island
+10314,Willowbrook,503,Mid-Island,Staten Island
+10451,High Bridge - Morrisania,106,High Bridge and Morrisania,Bronx
+10452,High Bridge - Morrisania,106,High Bridge and Morrisania,Bronx
+10453,Crotona - Tremont,105,Central Bronx,Bronx
+10454,Hunts Point - Mott Haven,107,Hunts Point and Mott Haven,Bronx
+10455,Hunts Point - Mott Haven,107,Hunts Point and Mott Haven,Bronx
+10456,High Bridge - Morrisania,106,High Bridge and Morrisania,Bronx
+10457,Crotona - Tremont,105,Central Bronx,Bronx
+10458,Fordham - Bronx Park,103,Bronx Park and Fordham,Bronx
+10459,Hunts Point - Mott Haven,107,Hunts Point and Mott Haven,Bronx
+10460,Crotona - Tremont,105,Central Bronx,Bronx
+10461,Pelhem - Throgs Neck,104,Southeast Bronx,Bronx
+10462,Pelhem - Throgs Neck,104,Southeast Bronx,Bronx
+10463,Kingsbridge - Riverdale,101,Kingsbridge and Riverdale,Bronx
+10464,Pelhem - Throgs Neck,104,Southeast Bronx,Bronx
+10465,Pelhem - Throgs Neck,104,Southeast Bronx,Bronx
+10466,Northeast Bronx,102,Northeast Bronx,Bronx
+10467,Fordham - Bronx Park,103,Bronx Park and Fordham,Bronx
+10468,Fordham - Bronx Park,103,Bronx Park and Fordham,Bronx
+10469,Northeast Bronx,102,Northeast Bronx,Bronx
+10470,Northeast Bronx,102,Northeast Bronx,Bronx
+10471,Kingsbridge - Riverdale,101,Kingsbridge and Riverdale,Bronx
+10472,Pelhem - Throgs Neck,104,Southeast Bronx,Bronx
+10473,Pelhem - Throgs Neck,104,Southeast Bronx,Bronx
+10474,Hunts Point - Mott Haven,107,Hunts Point and Mott Haven,Bronx
+10475,Northeast Bronx,102,Northeast Bronx,Bronx
+11004,Southeast Queens,409,Southeast Queens,Queens
+11005,Southeast Queens,409,Southeast Queens,Queens
+11101,Long Island City - Astoria,401,Northwest Queens,Queens
+11102,Long Island City - Astoria,401,Northwest Queens,Queens
+11103,Long Island City - Astoria,401,Northwest Queens,Queens
+11104,Long Island City - Astoria,401,Northwest Queens,Queens
+11105,Long Island City - Astoria,401,Northwest Queens,Queens
+11106,Long Island City - Astoria,401,Northwest Queens,Queens
+11201,Downtown - Heights - Slope,202,Northwest Brooklyn,Bronx
+11203,East Flatbush - Flatbush,207,Flatbush,Bronx
+11204,Borough Park,206,Borough Park,Bronx
+11205,Downtown - Heights - Slope,202,Northwest Brooklyn,Bronx
+11206,Williamsburg - Bushwick ,211,Bushwick and Williamsburg,Bronx
+11207,East New York,204,East New York and New Lots,Bronx
+11208,East New York,204,East New York and New Lots,Bronx
+11209,Bensonhurst - Bay Ridge,209,Southwest Brooklyn,Bronx
+11210,East Flatbush - Flatbush,207,Flatbush,Bronx
+11211,Greenpoint,201,Greenpoint,Bronx
+11212,Bedford Stuyvesant - Crown Heights,203,Central Brooklyn,Bronx
+11213,Bedford Stuyvesant - Crown Heights,203,Central Brooklyn,Bronx
+11214,Bensonhurst - Bay Ridge,209,Southwest Brooklyn,Bronx
+11215,Downtown - Heights - Slope,202,Northwest Brooklyn,Bronx
+11216,Bedford Stuyvesant - Crown Heights,203,Central Brooklyn,Bronx
+11217,Downtown - Heights - Slope,202,Northwest Brooklyn,Bronx
+11218,Borough Park,206,Borough Park,Bronx
+11219,Borough Park,206,Borough Park,Bronx
+11220,Sunset Park,205,Sunset Park,Bronx
+11221,Williamsburg - Bushwick ,211,Bushwick and Williamsburg,Bronx
+11222,Greenpoint,201,Greenpoint,Bronx
+11223,Coney Island - Sheepshead Bay,210,Southern Brooklyn,Bronx
+11224,Coney Island - Sheepshead Bay,210,Southern Brooklyn,Bronx
+11225,East Flatbush - Flatbush,207,Flatbush,Bronx
+11226,East Flatbush - Flatbush,207,Flatbush,Bronx
+11228,Bensonhurst - Bay Ridge,209,Southwest Brooklyn,Bronx
+11229,Coney Island - Sheepshead Bay,210,Southern Brooklyn,Bronx
+11230,Borough Park,206,Borough Park,Bronx
+11231,Downtown - Heights - Slope,202,Northwest Brooklyn,Bronx
+11232,Sunset Park,205,Sunset Park,Bronx
+11233,Bedford Stuyvesant - Crown Heights,203,Central Brooklyn,Bronx
+11234,Canarsie - Flatlands,208,Canarsie and Flatlands,Bronx
+11235,Coney Island - Sheepshead Bay,210,Southern Brooklyn,Bronx
+11236,Canarsie - Flatlands,208,Canarsie and Flatlands,Bronx
+11237,Williamsburg - Bushwick ,211,Bushwick and Williamsburg,Bronx
+11238,Bedford Stuyvesant - Crown Heights,203,Central Brooklyn,Bronx
+11239,Canarsie - Flatlands,208,Canarsie and Flatlands,Bronx
+11354,Flushing - Clearview,403,North Queens,Queens
+11355,Flushing - Clearview,403,North Queens,Queens
+11356,Flushing - Clearview,403,North Queens,Queens
+11357,Flushing - Clearview,403,North Queens,Queens
+11358,Flushing - Clearview,403,North Queens,Queens
+11359,Flushing - Clearview,403,North Queens,Queens
+11360,Flushing - Clearview,403,North Queens,Queens
+11361,Bayside - Little Neck,404,Northeast Queens,Queens
+11362,Bayside - Little Neck,404,Northeast Queens,Queens
+11363,Bayside - Little Neck,404,Northeast Queens,Queens
+11364,Bayside - Little Neck,404,Northeast Queens,Queens
+11365,Fresh Meadows,406,Central Queens,Queens
+11366,Fresh Meadows,406,Central Queens,Queens
+11367,Fresh Meadows,406,Central Queens,Queens
+11368,West Queens,402,West Queens,Queens
+11369,West Queens,402,West Queens,Queens
+11370,West Queens,402,West Queens,Queens
+11372,West Queens,402,West Queens,Queens
+11373,West Queens,402,West Queens,Queens
+11374,Ridgewood - Forest Hills,405,West Central Queens,Queens
+11375,Ridgewood - Forest Hills,405,West Central Queens,Queens
+11377,West Queens,402,West Queens,Queens
+11378,West Queens,402,West Queens,Queens
+11379,Ridgewood - Forest Hills,405,West Central Queens,Queens
+11385,Ridgewood - Forest Hills,405,West Central Queens,Queens
+11411,Southeast Queens,409,Southeast Queens,Queens
+11412,Jamaica,408,Jamaica,Queens
+11413,Southeast Queens,409,Southeast Queens,Queens
+11414,Southwest Queens,407,Southwest Queens,Queens
+11415,Southwest Queens,407,Southwest Queens,Queens
+11416,Southwest Queens,407,Southwest Queens,Queens
+11417,Southwest Queens,407,Southwest Queens,Queens
+11418,Southwest Queens,407,Southwest Queens,Queens
+11419,Southwest Queens,407,Southwest Queens,Queens
+11420,Southwest Queens,407,Southwest Queens,Queens
+11421,Southwest Queens,407,Southwest Queens,Queens
+11422,Southeast Queens,409,Southeast Queens,Queens
+11423,Jamaica,408,Jamaica,Queens
+11426,Southeast Queens,409,Southeast Queens,Queens
+11427,Southeast Queens,409,Southeast Queens,Queens
+11428,Southeast Queens,409,Southeast Queens,Queens
+11429,Southeast Queens,409,Southeast Queens,Queens
+11432,Jamaica,408,Jamaica,Queens
+11433,Jamaica,408,Jamaica,Queens
+11434,Jamaica,408,Jamaica,Queens
+11435,Jamaica,408,Jamaica,Queens
+11436,Jamaica,408,Jamaica,Queens
+11691,Rockaway,410,Rockaways,Queens
+11692,Rockaway,410,Rockaways,Queens
+11693,Rockaway,410,Rockaways,Queens
+11694,Rockaway,410,Rockaways,Queens
+11695,Rockaway,410,Rockaways,Queens
+11697,Rockaway,410,Rockaways,Queens
