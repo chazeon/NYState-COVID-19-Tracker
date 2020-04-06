@@ -64,12 +64,31 @@ if __name__ == "__main__":
         if max(y_array) > 1000:
             print(uhf_code)
 
-        plt.plot(x_array, y_array, marker="o", c=colors[uhf_data["borough"]], alpha=.8)
-        plt.text(
-            x_array[-1] + 4, y_array[-1],
-            uhf_data["neighborhood_name"] + f" ({int(y_array[-1])}/{int(x_array[-1])})",
-            color=colors[uhf_data["borough"]],
-            va="center", ha="left", size=6, alpha=.8)
+        plt.plot(x_array, y_array, marker="o", c=colors[uhf_data["borough"]], alpha=.8, ls="dashed", markersize=1, lw=.75)
+        plt.plot(x_array[-1], y_array[-1], marker="o", c=colors[uhf_data["borough"]], markersize=6, mec="white", zorder=10)
+        if int(uhf_code) % 2 == 1:
+            plt.text(
+                x_array[-1], y_array[-1] * 1.1,
+                uhf_data["neighborhood_name"] + f" ({int(y_array[-1])}/{int(x_array[-1])})",
+                color=colors[uhf_data["borough"]],
+                va="bottom", ha="center",
+                size=6, alpha=.9,
+                rotation=90,
+                zorder=15
+            )
+        else:
+            plt.text(
+                x_array[-1] * 1.1, y_array[-1],
+                uhf_data["neighborhood_name"] + f" ({int(y_array[-1])}/{int(x_array[-1])})",
+                color=colors[uhf_data["borough"]],
+                va="center", ha="left",
+                size=6, alpha=.9,
+                weight="bold",
+                zorder=15
+            )
+
+
+    plt.loglog()
 
     plt.xlabel("Daily tested for COVID-19")
     plt.ylabel("Daily positive for COVID-19")
@@ -79,12 +98,25 @@ if __name__ == "__main__":
         for color in colors.values()
     ], boroughs)
     plt.gca().set_aspect("equal")
-    plt.xlim(left=0)
-    plt.ylim(bottom=0)
+    plt.xlim(left=5)
+    plt.ylim(bottom=5)
     for percent in numpy.arange(0, 1.1, .25):
         plt.plot(plt.xlim(), numpy.array(plt.xlim()) * percent, c="grey", lw=.5, ls="dotted")
         if percent == 1: continue
-        plt.text(plt.xlim()[1], plt.xlim()[1]*percent, f"  {percent*100:.0f}%", ha="left", va="center", c="k")
+        plt.text(plt.xlim()[1], plt.xlim()[1]*percent, f"  {percent*100:.0f}%", ha="left", va="bottom", c="k", rotation=45)
+        
+    plt.text(plt.ylim()[1], plt.ylim()[1], f"  100%", ha="left", va="bottom", c="k", rotation=45)
+
+    plt.text(plt.xlim()[0] * 1.1, plt.ylim()[0] * 1.28, "daily positive rate $\\uparrow$", rotation=45, size=8)
+
+    from matplotlib.ticker import LogLocator
+    from util import LogFormatterSI
+
+    plt.gca().xaxis.set_major_locator(LogLocator(subs=(1, 2, 5)))
+    plt.gca().xaxis.set_major_formatter(LogFormatterSI(labelOnlyBase=False, minor_thresholds=(numpy.inf, numpy.inf)))
+    plt.gca().yaxis.set_major_locator(LogLocator(subs=(1, 2, 5)))
+    plt.gca().yaxis.set_major_formatter(LogFormatterSI(labelOnlyBase=False, minor_thresholds=(numpy.inf, numpy.inf)))
+
     plt.savefig("plots/NYC-districts-positive.png")
 
 
