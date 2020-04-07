@@ -15,6 +15,7 @@ Positive cases tracker for New York State.
 ### NYC daily increase by neighborhood
 
 ![](plots/NYC-districts-positive.png)
+![](plots/NYS-county-positive.png)
 
 ### An estimation of increacement 
 

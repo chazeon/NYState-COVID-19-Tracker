@@ -66,24 +66,25 @@ if __name__ == "__main__":
 
         plt.plot(x_array, y_array, marker="o", c=colors[uhf_data["borough"]], alpha=.8, ls="dashed", markersize=1, lw=.75)
         plt.plot(x_array[-1], y_array[-1], marker="o", c=colors[uhf_data["borough"]], markersize=6, mec="white", zorder=10)
-        if int(uhf_code) % 2 == 1:
+        if int(uhf_code) % 2 == 1 and y_array[-1] / x_array[-1] > .5:
             plt.text(
-                x_array[-1], y_array[-1] * 1.1,
-                uhf_data["neighborhood_name"] + f" ({int(y_array[-1])}/{int(x_array[-1])})",
+                x_array[-1], y_array[-1],
+                "     " + uhf_data["neighborhood_name"] + f" ({int(y_array[-1])}/{int(x_array[-1])})",
                 color=colors[uhf_data["borough"]],
-                va="bottom", ha="center",
+                va="bottom", ha="right",
                 size=6, alpha=.9,
-                rotation=90,
+                rotation=-45,
                 zorder=15
             )
         else:
             plt.text(
-                x_array[-1] * 1.1, y_array[-1],
-                uhf_data["neighborhood_name"] + f" ({int(y_array[-1])}/{int(x_array[-1])})",
+                x_array[-1], y_array[-1],
+                uhf_data["neighborhood_name"] + f" ({int(y_array[-1])}/{int(x_array[-1])})" + "     ",
                 color=colors[uhf_data["borough"]],
-                va="center", ha="left",
+                va="top", ha="left",
                 size=6, alpha=.9,
                 weight="bold",
+                rotation=-45,
                 zorder=15
             )
 
