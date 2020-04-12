@@ -97,9 +97,11 @@ if __name__ == "__main__":
             "covid-19-data-map",
             "covid-19-daily-data-summary",
             "covid-19-daily-data-summary-deaths",
-            "covid-19-daily-data-summary-hospitalizations"
+            "covid-19-daily-data-summary-hospitalizations",
+            "covid-19-deaths-race-ethnicity"
         }:
             if re.search("/" + key + r"-\d{8,8}-\d+.pdf", url):
                 archive_url(f"documents/NYC-{key}", url)
 
     archive_url(f"documents/NYC-github-coronavirus-data-tests-by-zcta", "https://raw.githubusercontent.com/nychealth/coronavirus-data/master/tests-by-zcta.csv", ext="csv")
+    archive_url(f"documents/NJ-COVID_Confirmed_Case_Summary", "https://www.nj.gov/health/cd/documents/topics/NCOV/COVID_Confirmed_Case_Summary.pdf")
