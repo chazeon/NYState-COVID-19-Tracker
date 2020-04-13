@@ -1,0 +1,3422 @@
+[
+  {
+    "Click Here (Desktop)": [
+      {
+        "none:Calculation_1165306441753620487:nk": {
+          "type": "cstring",
+          "value": "Click to see NYS excl. NYC age-adjusted rate"
+        }
+      }
+    ],
+    "DASHBOARD 1 DATE mobile": [
+      {
+        "max:TEST_DATE_WITH_HOURS:qk": {
+          "type": "datetime",
+          "value": "4/8/2020"
+        },
+        "usr:Calculation_985443931286315011:ok": {
+          "type": "date",
+          "value": "4/9/2020"
+        }
+      }
+    ],
+    "Fatalaties by Age Group (tablet)": [
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "Unknown"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "%"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0.0%"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "90 & Over"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "%"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "11.8%"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "80 to 89"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "%"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "25.4%"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "70 to 79"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "%"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "26.3%"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "60 to 69"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "%"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "19.5%"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "50 to 59"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "%"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "10.3%"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "40 to 49"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "%"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "4.3%"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "30 to 39"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "%"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1.8%"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "20 to 29"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "%"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0.5%"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "10 to 19"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "%"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0.1%"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "0 to 9"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "%"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0.0%"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "%all%"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "%"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "100.0%"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "Unknown"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Fatality Count"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "3"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "90 & Over"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Fatality Count"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "831"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "80 to 89"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Fatality Count"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1,797"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "70 to 79"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Fatality Count"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1,860"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "60 to 69"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Fatality Count"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1,378"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "50 to 59"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Fatality Count"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "728"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "40 to 49"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Fatality Count"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "301"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "30 to 39"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Fatality Count"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "127"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "20 to 29"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Fatality Count"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "36"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "10 to 19"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Fatality Count"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "5"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "0 to 9"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Fatality Count"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:Age Group:nk": {
+          "type": "cstring",
+          "value": "%all%"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Fatality Count"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "7,067"
+        }
+      }
+    ],
+    "Fatalaties by County (tablet)": [
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Wyoming"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Westchester"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "359"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Washington"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Warren"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Ulster"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "8"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Sullivan"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "6"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Suffolk"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "362"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Steuben"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "5"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "St. Lawrence"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Schenectady"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "7"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Saratoga"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "5"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Rockland"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "126"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Richmond"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "249"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Rensselaer"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "4"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Queens"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1,650"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Putnam"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "21"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Otsego"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "2"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Oswego"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "2"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Orange"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "76"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Onondaga"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "7"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Oneida"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Non-NYS"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "32"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Niagara"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "2"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Nassau"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "633"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Montgomery"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Monroe"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "29"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Manhattan"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "674"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Madison"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "2"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Livingston"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Lewis"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "3"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Kings"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1,599"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Herkimer"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "3"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Genessee"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Fulton"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Erie"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "43"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Dutchess"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "19"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Delaware"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Cortland"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Columbia"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "4"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Chemung"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Chautauqua"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Cayuga"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Broome"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "6"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Bronx"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1,108"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Allegany"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Albany"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "7"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "%all%"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Residence of Individual"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "7,067"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Wyoming"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Westchester"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "389"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Washington"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Warren"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Ulster"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "2"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Sullivan"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "7"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Suffolk"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "369"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Steuben"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "3"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "St. Lawrence"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Schenectady"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "9"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Saratoga"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Rockland"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "117"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Richmond"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "246"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Rensselaer"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "3"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Queens"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1,400"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Putnam"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "16"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Otsego"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "2"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Oswego"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Orange"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "79"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Onondaga"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "10"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Oneida"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "2"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Non-NYS"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Niagara"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Nassau"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "778"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Montgomery"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Monroe"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "31"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Manhattan"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "985"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Madison"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Livingston"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Lewis"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Kings"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1,473"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Herkimer"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Genessee"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Fulton"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Erie"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "46"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Dutchess"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "21"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Delaware"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Cortland"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Columbia"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "4"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Chemung"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "2"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Chautauqua"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Cayuga"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Broome"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "6"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Bronx"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1,046"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Allegany"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "Albany"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "12"
+        }
+      },
+      {
+        "none:County:nk": {
+          "type": "cstring",
+          "value": "%all%"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Place of Fatality"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "7,067"
+        }
+      }
+    ],
+    "Fatalities by Sex": [
+      {
+        "none:Sex:nk": {
+          "type": "cstring",
+          "value": "Unknown"
+        },
+        "sum:Calculation_1198239014226788352:qk": {
+          "type": "real",
+          "value": 0.001
+        },
+        "sum:Count:qk": {
+          "type": "integer",
+          "value": 9
+        }
+      },
+      {
+        "none:Sex:nk": {
+          "type": "cstring",
+          "value": "Male"
+        },
+        "sum:Calculation_1198239014226788352:qk": {
+          "type": "real",
+          "value": 0.607
+        },
+        "sum:Count:qk": {
+          "type": "integer",
+          "value": 4291
+        }
+      },
+      {
+        "none:Sex:nk": {
+          "type": "cstring",
+          "value": "Female"
+        },
+        "sum:Calculation_1198239014226788352:qk": {
+          "type": "real",
+          "value": 0.392
+        },
+        "sum:Count:qk": {
+          "type": "integer",
+          "value": 2767
+        }
+      },
+      {
+        "none:Sex:nk": {
+          "type": "cstring",
+          "value": "%all%"
+        },
+        "sum:Calculation_1198239014226788352:qk": {
+          "type": "real",
+          "value": 1
+        },
+        "sum:Count:qk": {
+          "type": "integer",
+          "value": 7067
+        }
+      }
+    ],
+    "Race (tablet)": [
+      {
+        "none:Race:nk": {
+          "type": "cstring",
+          "value": "White"
+        },
+        "none:Region:nk": {
+          "type": "cstring",
+          "value": "NYS Excl. NYC"
+        },
+        "none:Text:nk": {
+          "type": "cstring",
+          "value": "61% (74% of population)"
+        }
+      },
+      {
+        "none:Race:nk": {
+          "type": "cstring",
+          "value": "Hispanic"
+        },
+        "none:Region:nk": {
+          "type": "cstring",
+          "value": "NYC"
+        },
+        "none:Text:nk": {
+          "type": "cstring",
+          "value": "34% (29% of population)"
+        }
+      },
+      {
+        "none:Race:nk": {
+          "type": "cstring",
+          "value": "Black"
+        },
+        "none:Region:nk": {
+          "type": "cstring",
+          "value": "NYC"
+        },
+        "none:Text:nk": {
+          "type": "cstring",
+          "value": "28% (22% of population)"
+        }
+      },
+      {
+        "none:Race:nk": {
+          "type": "cstring",
+          "value": "White"
+        },
+        "none:Region:nk": {
+          "type": "cstring",
+          "value": "NYC"
+        },
+        "none:Text:nk": {
+          "type": "cstring",
+          "value": "27% (32% of population)"
+        }
+      },
+      {
+        "none:Race:nk": {
+          "type": "cstring",
+          "value": "Black"
+        },
+        "none:Region:nk": {
+          "type": "cstring",
+          "value": "NYS Excl. NYC"
+        },
+        "none:Text:nk": {
+          "type": "cstring",
+          "value": "17% (9% of population)"
+        }
+      },
+      {
+        "none:Race:nk": {
+          "type": "cstring",
+          "value": "Hispanic"
+        },
+        "none:Region:nk": {
+          "type": "cstring",
+          "value": "NYS Excl. NYC"
+        },
+        "none:Text:nk": {
+          "type": "cstring",
+          "value": "14% (12% of population)"
+        }
+      },
+      {
+        "none:Race:nk": {
+          "type": "cstring",
+          "value": "Asian"
+        },
+        "none:Region:nk": {
+          "type": "cstring",
+          "value": "NYC"
+        },
+        "none:Text:nk": {
+          "type": "cstring",
+          "value": "7% (14% of population)"
+        }
+      },
+      {
+        "none:Race:nk": {
+          "type": "cstring",
+          "value": "Asian"
+        },
+        "none:Region:nk": {
+          "type": "cstring",
+          "value": "NYS Excl. NYC"
+        },
+        "none:Text:nk": {
+          "type": "cstring",
+          "value": "4% (4% of population)"
+        }
+      },
+      {
+        "none:Race:nk": {
+          "type": "cstring",
+          "value": "Other"
+        },
+        "none:Region:nk": {
+          "type": "cstring",
+          "value": "NYC"
+        },
+        "none:Text:nk": {
+          "type": "cstring",
+          "value": "4% (3% of population)"
+        }
+      },
+      {
+        "none:Race:nk": {
+          "type": "cstring",
+          "value": "Other"
+        },
+        "none:Region:nk": {
+          "type": "cstring",
+          "value": "NYS Excl. NYC"
+        },
+        "none:Text:nk": {
+          "type": "cstring",
+          "value": "4% (1% of population)"
+        }
+      }
+    ],
+    "Top 10 Comorbidities tablet": [
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "90 and Over"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Congestive Heart Failure"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "85"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "80 to 89"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Congestive Heart Failure"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "147"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "70 to 79"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Congestive Heart Failure"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "124"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "60 to 69"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Congestive Heart Failure"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "51"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "50 to 59"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Congestive Heart Failure"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "14"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "40 to 49"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Congestive Heart Failure"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "33"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "30 to 39"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Congestive Heart Failure"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "8"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "20 to 29"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Congestive Heart Failure"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "2"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "10 to 19"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Congestive Heart Failure"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "0 to 9"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Congestive Heart Failure"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "%all%"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Congestive Heart Failure"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "464"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "90 and Over"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Atrial Fibrillation"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "99"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "80 to 89"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Atrial Fibrillation"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "185"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "70 to 79"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Atrial Fibrillation"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "123"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "60 to 69"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Atrial Fibrillation"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "47"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "50 to 59"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Atrial Fibrillation"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "10"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "40 to 49"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Atrial Fibrillation"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "35"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "30 to 39"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Atrial Fibrillation"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "20"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "20 to 29"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Atrial Fibrillation"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "10 to 19"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Atrial Fibrillation"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "0 to 9"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Atrial Fibrillation"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "%all%"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Atrial Fibrillation"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "520"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "90 and Over"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Cancer"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "72"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "80 to 89"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Cancer"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "156"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "70 to 79"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Cancer"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "148"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "60 to 69"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Cancer"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "100"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "50 to 59"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Cancer"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "11"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "40 to 49"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Cancer"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "25"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "30 to 39"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Cancer"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "9"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "20 to 29"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Cancer"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "10 to 19"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Cancer"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "0 to 9"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Cancer"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "%all%"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Cancer"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "521"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "90 and Over"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "COPD"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "57"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "80 to 89"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "COPD"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "175"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "70 to 79"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "COPD"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "179"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "60 to 69"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "COPD"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "91"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "50 to 59"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "COPD"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "23"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "40 to 49"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "COPD"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "33"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "30 to 39"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "COPD"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "12"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "20 to 29"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "COPD"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "10 to 19"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "COPD"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "0 to 9"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "COPD"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "%all%"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "COPD"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "570"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "90 and Over"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Dementia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "184"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "80 to 89"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Dementia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "244"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "70 to 79"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Dementia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "139"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "60 to 69"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Dementia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "43"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "50 to 59"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Dementia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "20"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "40 to 49"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Dementia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "36"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "30 to 39"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Dementia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "12"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "20 to 29"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Dementia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "10 to 19"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Dementia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "0 to 9"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Dementia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "%all%"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Dementia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "679"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "90 and Over"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Renal Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "72"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "80 to 89"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Renal Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "173"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "70 to 79"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Renal Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "185"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "60 to 69"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Renal Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "146"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "50 to 59"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Renal Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "63"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "40 to 49"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Renal Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "34"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "30 to 39"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Renal Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "6"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "20 to 29"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Renal Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "10 to 19"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Renal Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "0 to 9"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Renal Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "%all%"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Renal Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "679"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "90 and Over"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Coronary Artery Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "88"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "80 to 89"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Coronary Artery Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "276"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "70 to 79"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Coronary Artery Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "250"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "60 to 69"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Coronary Artery Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "132"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "50 to 59"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Coronary Artery Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "21"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "40 to 49"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Coronary Artery Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "84"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "30 to 39"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Coronary Artery Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "15"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "20 to 29"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Coronary Artery Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "3"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "10 to 19"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Coronary Artery Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "0 to 9"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Coronary Artery Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "%all%"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Coronary Artery Disease"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "869"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "90 and Over"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hyperlipidemia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "132"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "80 to 89"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hyperlipidemia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "343"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "70 to 79"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hyperlipidemia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "372"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "60 to 69"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hyperlipidemia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "210"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "50 to 59"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hyperlipidemia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "136"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "40 to 49"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hyperlipidemia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "60"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "30 to 39"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hyperlipidemia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "19"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "20 to 29"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hyperlipidemia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "4"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "10 to 19"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hyperlipidemia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "0 to 9"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hyperlipidemia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "%all%"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hyperlipidemia"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1,276"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "90 and Over"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Diabetes"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "177"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "80 to 89"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Diabetes"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "572"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "70 to 79"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Diabetes"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "750"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "60 to 69"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Diabetes"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "505"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "50 to 59"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Diabetes"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "268"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "40 to 49"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Diabetes"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "80"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "30 to 39"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Diabetes"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "39"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "20 to 29"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Diabetes"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "6"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "10 to 19"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Diabetes"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "0 to 9"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Diabetes"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "%all%"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Diabetes"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "2,397"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "90 and Over"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hypertension"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "443"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "80 to 89"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hypertension"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "994"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "70 to 79"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hypertension"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "1,055"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "60 to 69"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hypertension"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "666"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "50 to 59"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hypertension"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "338"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "40 to 49"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hypertension"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "137"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "30 to 39"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hypertension"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "55"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "20 to 29"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hypertension"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "10"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "10 to 19"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hypertension"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "0 to 9"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hypertension"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "0"
+        }
+      },
+      {
+        "none:Age Range:nk": {
+          "type": "cstring",
+          "value": "%all%"
+        },
+        ":Measure Names": {
+          "type": "cstring",
+          "value": "Hypertension"
+        },
+        "Multiple Values": {
+          "type": "real",
+          "value": "3,698"
+        }
+      }
+    ]
+  }
+]
