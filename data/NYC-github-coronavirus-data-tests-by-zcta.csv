@@ -5,32 +5,32 @@ NA,,,,,Positive,32,4473,4530,4712,4735,4691,1330,1362,1363,1934,1851,2033
 10001,306,Chelsea - Clinton,Chelsea and Clinton,Manhattan,Total,265,304,321,337,364,384,408,429,435,448,462,480
 10002,309,Union Square - Lower East Side,Lower East Side,Manhattan,Positive,250,317,341,360,405,421,456,492,500,539,554,578
 10002,309,Union Square - Lower East Side,Lower East Side,Manhattan,Total,542,651,684,718,792,836,889,949,970,1024,1045,1094
-10003,309,Union Square - Lower East Side,Lower East Side,Manhattan,Positive,161,191,198,210,230,238,253,264,267,279,285,290
 10003,309,Union Square - Lower East Side,Lower East Side,Manhattan,Total,379,438,464,490,543,563,597,622,636,662,678,692
+10003,309,Union Square - Lower East Side,Lower East Side,Manhattan,Positive,161,191,198,210,230,238,253,264,267,279,285,290
 10004,310,Lower Manhattan,Lower Manhattan,Manhattan,Total,38,42,45,45,45,47,48,53,54,59,59,59
 10004,310,Lower Manhattan,Lower Manhattan,Manhattan,Positive,16,19,20,20,20,20,21,22,22,23,23,23
-10005,310,Lower Manhattan,Lower Manhattan,Manhattan,Total,81,94,95,96,103,104,108,109,112,116,117,122
 10005,310,Lower Manhattan,Lower Manhattan,Manhattan,Positive,25,28,28,29,32,32,36,36,37,38,39,40
-10006,310,Lower Manhattan,Lower Manhattan,Manhattan,Total,24,26,28,30,33,36,39,39,39,43,44,46
+10005,310,Lower Manhattan,Lower Manhattan,Manhattan,Total,81,94,95,96,103,104,108,109,112,116,117,122
 10006,310,Lower Manhattan,Lower Manhattan,Manhattan,Positive,6,7,7,7,8,8,8,8,8,10,11,11
+10006,310,Lower Manhattan,Lower Manhattan,Manhattan,Total,24,26,28,30,33,36,39,39,39,43,44,46
 10007,310,Lower Manhattan,Lower Manhattan,Manhattan,Positive,26,28,29,29,30,30,31,32,32,34,34,35
 10007,310,Lower Manhattan,Lower Manhattan,Manhattan,Total,67,75,78,81,86,90,95,102,103,107,109,112
 10009,309,Union Square - Lower East Side,Lower East Side,Manhattan,Total,450,548,581,597,662,691,730,782,797,851,879,918
 10009,309,Union Square - Lower East Side,Lower East Side,Manhattan,Positive,181,236,253,262,298,308,333,348,349,381,389,407
 10010,,Gramercy Park - Murray Hill,Gramercy Park and Murray Hill,Manhattan,Positive,101,118,119,121,133,137,150,158,160,166,169,175
 10010,,Gramercy Park - Murray Hill,Gramercy Park and Murray Hill,Manhattan,Total,282,336,344,349,377,391,413,441,451,468,472,486
-10011,306,Chelsea - Clinton,Chelsea and Clinton,Manhattan,Total,487,549,576,596,640,660,678,695,704,731,742,755
 10011,306,Chelsea - Clinton,Chelsea and Clinton,Manhattan,Positive,222,255,267,278,308,316,329,341,342,355,359,365
-10012,308,Greenwich Village - Soho,Greenwich Village and Soho,Manhattan,Positive,68,77,80,85,86,88,91,96,96,98,99,101
+10011,306,Chelsea - Clinton,Chelsea and Clinton,Manhattan,Total,487,549,576,596,640,660,678,695,704,731,742,755
 10012,308,Greenwich Village - Soho,Greenwich Village and Soho,Manhattan,Total,183,209,217,226,241,249,257,274,277,285,287,293
-10013,308,Greenwich Village - Soho,Greenwich Village and Soho,Manhattan,Positive,122,120,122,124,131,135,140,149,151,161,162,166
+10012,308,Greenwich Village - Soho,Greenwich Village and Soho,Manhattan,Positive,68,77,80,85,86,88,91,96,96,98,99,101
 10013,308,Greenwich Village - Soho,Greenwich Village and Soho,Manhattan,Total,255,265,271,282,301,310,322,341,347,362,365,374
-10014,308,Greenwich Village - Soho,Greenwich Village and Soho,Manhattan,Positive,140,163,168,178,186,189,198,205,207,212,213,216
+10013,308,Greenwich Village - Soho,Greenwich Village and Soho,Manhattan,Positive,122,120,122,124,131,135,140,149,151,161,162,166
 10014,308,Greenwich Village - Soho,Greenwich Village and Soho,Manhattan,Total,305,347,357,373,391,403,424,439,443,457,463,472
+10014,308,Greenwich Village - Soho,Greenwich Village and Soho,Manhattan,Positive,140,163,168,178,186,189,198,205,207,212,213,216
 10016,,Gramercy Park - Murray Hill,Gramercy Park and Murray Hill,Manhattan,Positive,288,295,311,324,344,354,389,412,417,435,442,454
 10016,,Gramercy Park - Murray Hill,Gramercy Park and Murray Hill,Manhattan,Total,581,661,700,727,814,843,906,950,964,992,1008,1044
-10017,,Gramercy Park - Murray Hill,Gramercy Park and Murray Hill,Manhattan,Positive,45,59,63,65,74,74,80,83,83,90,92,95
 10017,,Gramercy Park - Murray Hill,Gramercy Park and Murray Hill,Manhattan,Total,138,173,183,187,212,217,233,241,244,260,268,273
+10017,,Gramercy Park - Murray Hill,Gramercy Park and Murray Hill,Manhattan,Positive,45,59,63,65,74,74,80,83,83,90,92,95
 10018,306,Chelsea - Clinton,Chelsea and Clinton,Manhattan,Positive,66,97,103,106,116,120,126,140,148,156,157,159
 10018,306,Chelsea - Clinton,Chelsea and Clinton,Manhattan,Total,151,211,225,232,251,259,270,296,318,331,333,339
 10019,306,Chelsea - Clinton,Chelsea and Clinton,Manhattan,Positive,187,226,237,244,264,275,298,310,314,334,339,350
@@ -39,14 +39,14 @@ NA,,,,,Positive,32,4473,4530,4712,4735,4691,1330,1362,1363,1934,1851,2033
 10021,305,Upper East Side,Upper East Side,Manhattan,Total,562,672,705,726,771,799,836,885,906,967,977,1011
 10022,,Gramercy Park - Murray Hill,Gramercy Park and Murray Hill,Manhattan,Positive,123,148,157,159,174,182,187,202,206,219,222,231
 10022,,Gramercy Park - Murray Hill,Gramercy Park and Murray Hill,Manhattan,Total,339,400,417,422,461,474,490,528,542,562,567,584
-10023,304,Upper West Side,Upper West Side,Manhattan,Positive,190,231,245,251,269,275,289,312,315,341,350,368
 10023,304,Upper West Side,Upper West Side,Manhattan,Total,503,583,621,642,695,723,753,799,809,857,871,900
-10024,304,Upper West Side,Upper West Side,Manhattan,Total,641,731,756,782,841,863,900,938,947,994,1005,1035
+10023,304,Upper West Side,Upper West Side,Manhattan,Positive,190,231,245,251,269,275,289,312,315,341,350,368
 10024,304,Upper West Side,Upper West Side,Manhattan,Positive,204,255,270,283,307,318,339,358,359,380,386,400
-10025,304,Upper West Side,Upper West Side,Manhattan,Total,754,892,946,984,1084,1142,1215,1316,1345,1439,1485,1544
+10024,304,Upper West Side,Upper West Side,Manhattan,Total,641,731,756,782,841,863,900,938,947,994,1005,1035
 10025,304,Upper West Side,Upper West Side,Manhattan,Positive,252,327,357,377,433,466,513,567,582,626,652,685
-10026,302,Central Harlem - Morningside Heights,Central Harlem,Manhattan,Total,300,363,395,413,449,470,514,548,562,605,618,650
+10025,304,Upper West Side,Upper West Side,Manhattan,Total,754,892,946,984,1084,1142,1215,1316,1345,1439,1485,1544
 10026,302,Central Harlem - Morningside Heights,Central Harlem,Manhattan,Positive,126,166,188,197,220,231,255,274,279,308,314,334
+10026,302,Central Harlem - Morningside Heights,Central Harlem,Manhattan,Total,300,363,395,413,449,470,514,548,562,605,618,650
 10027,302,Central Harlem - Morningside Heights,Central Harlem,Manhattan,Positive,170,224,250,267,327,346,389,419,427,476,487,496
 10027,302,Central Harlem - Morningside Heights,Central Harlem,Manhattan,Total,422,504,540,565,657,696,751,817,839,910,929,949
 10028,305,Upper East Side,Upper East Side,Manhattan,Positive,189,220,229,237,257,264,284,297,302,317,326,330
@@ -59,114 +59,114 @@ NA,,,,,Positive,32,4473,4530,4712,4735,4691,1330,1362,1363,1934,1851,2033
 10031,301,Washington Heights - Inwood,Inwood and Washington Heights,Manhattan,Positive,217,288,314,340,407,433,483,536,542,611,635,660
 10032,301,Washington Heights - Inwood,Inwood and Washington Heights,Manhattan,Positive,308,389,431,448,508,543,586,629,636,728,751,775
 10032,301,Washington Heights - Inwood,Inwood and Washington Heights,Manhattan,Total,548,670,724,757,857,914,983,1052,1066,1190,1229,1262
-10033,301,Washington Heights - Inwood,Inwood and Washington Heights,Manhattan,Total,495,593,626,657,730,779,850,915,931,1011,1040,1080
 10033,301,Washington Heights - Inwood,Inwood and Washington Heights,Manhattan,Positive,264,342,366,391,439,474,521,558,560,626,643,671
-10034,301,Washington Heights - Inwood,Inwood and Washington Heights,Manhattan,Total,262,325,350,366,416,446,499,543,550,607,624,646
+10033,301,Washington Heights - Inwood,Inwood and Washington Heights,Manhattan,Total,495,593,626,657,730,779,850,915,931,1011,1040,1080
 10034,301,Washington Heights - Inwood,Inwood and Washington Heights,Manhattan,Positive,108,152,169,178,212,231,273,297,300,345,353,367
-10035,303,East Harlem,East Harlem,Manhattan,Total,345,452,483,515,580,611,668,724,744,796,820,852
+10034,301,Washington Heights - Inwood,Inwood and Washington Heights,Manhattan,Total,262,325,350,366,416,446,499,543,550,607,624,646
 10035,303,East Harlem,East Harlem,Manhattan,Positive,147,216,233,254,301,321,358,393,403,440,459,475
-10036,306,Chelsea - Clinton,Chelsea and Clinton,Manhattan,Total,275,331,346,355,404,420,435,457,465,494,509,523
+10035,303,East Harlem,East Harlem,Manhattan,Total,345,452,483,515,580,611,668,724,744,796,820,852
 10036,306,Chelsea - Clinton,Chelsea and Clinton,Manhattan,Positive,116,150,157,160,189,197,207,212,214,232,235,241
+10036,306,Chelsea - Clinton,Chelsea and Clinton,Manhattan,Total,275,331,346,355,404,420,435,457,465,494,509,523
 10037,302,Central Harlem - Morningside Heights,Central Harlem,Manhattan,Positive,109,101,108,121,146,157,194,216,223,232,235,246
 10037,302,Central Harlem - Morningside Heights,Central Harlem,Manhattan,Total,204,206,222,241,282,302,344,380,391,405,411,427
 10038,310,Lower Manhattan,Lower Manhattan,Manhattan,Positive,76,93,97,101,114,118,126,135,137,151,155,159
 10038,310,Lower Manhattan,Lower Manhattan,Manhattan,Total,167,198,211,219,238,246,259,278,281,300,306,314
-10039,302,Central Harlem - Morningside Heights,Central Harlem,Manhattan,Positive,116,141,147,155,178,187,214,233,243,266,268,277
 10039,302,Central Harlem - Morningside Heights,Central Harlem,Manhattan,Total,226,271,287,304,340,355,392,432,446,478,485,504
+10039,302,Central Harlem - Morningside Heights,Central Harlem,Manhattan,Positive,116,141,147,155,178,187,214,233,243,266,268,277
 10040,301,Washington Heights - Inwood,Inwood and Washington Heights,Manhattan,Total,356,431,462,487,543,579,643,693,702,786,802,829
 10040,301,Washington Heights - Inwood,Inwood and Washington Heights,Manhattan,Positive,208,256,278,294,329,353,399,434,437,498,512,532
-10044,305,Upper East Side,Upper East Side,Manhattan,Total,116,135,146,149,155,165,176,183,186,198,201,207
 10044,305,Upper East Side,Upper East Side,Manhattan,Positive,49,59,63,64,68,71,81,82,84,90,92,95
-10065,305,Upper East Side,Upper East Side,Manhattan,Total,385,460,487,492,520,544,571,593,601,627,639,654
+10044,305,Upper East Side,Upper East Side,Manhattan,Total,116,135,146,149,155,165,176,183,186,198,201,207
 10065,305,Upper East Side,Upper East Side,Manhattan,Positive,121,158,166,171,182,187,197,207,207,216,218,224
-10069,,,,,Positive,24,29,29,29,32,32,33,34,34,35,35,37
+10065,305,Upper East Side,Upper East Side,Manhattan,Total,385,460,487,492,520,544,571,593,601,627,639,654
 10069,,,,,Total,57,69,70,72,81,81,83,87,89,93,94,96
+10069,,,,,Positive,24,29,29,29,32,32,33,34,34,35,35,37
 10075,305,Upper East Side,Upper East Side,Manhattan,Positive,160,188,195,204,226,232,241,252,257,262,265,274
 10075,305,Upper East Side,Upper East Side,Manhattan,Total,371,417,433,452,488,501,517,541,552,564,571,581
 10128,305,Upper East Side,Upper East Side,Manhattan,Total,596,690,718,737,801,834,891,948,976,1006,1027,1075
 10128,305,Upper East Side,Upper East Side,Manhattan,Positive,212,267,275,281,306,317,352,374,384,396,403,424
-10280,310,Lower Manhattan,Lower Manhattan,Manhattan,Total,50,58,59,61,66,73,76,79,79,81,83,87
 10280,310,Lower Manhattan,Lower Manhattan,Manhattan,Positive,17,19,19,20,23,23,25,27,27,27,28,30
+10280,310,Lower Manhattan,Lower Manhattan,Manhattan,Total,50,58,59,61,66,73,76,79,79,81,83,87
 10282,,,,,Positive,21,28,30,32,36,36,37,41,41,44,48,50
 10282,,,,,Total,42,53,58,61,65,67,76,82,85,90,94,99
-10301,502,Stapleton -  St. George,Stapleton and St. George,Staten Island,Total,333,423,459,501,592,696,848,999,1037,1133,1176,1224
 10301,502,Stapleton -  St. George,Stapleton and St. George,Staten Island,Positive,175,235,253,278,324,357,457,524,538,593,627,660
-10302,501,Port Richmond,Port Richmond,Staten Island,Total,137,187,205,230,297,343,446,522,541,612,626,662
+10301,502,Stapleton -  St. George,Stapleton and St. George,Staten Island,Total,333,423,459,501,592,696,848,999,1037,1133,1176,1224
 10302,501,Port Richmond,Port Richmond,Staten Island,Positive,61,94,103,120,156,169,236,268,275,318,327,353
-10303,501,Port Richmond,Port Richmond,Staten Island,Total,221,292,322,353,448,513,636,736,760,866,903,942
+10302,501,Port Richmond,Port Richmond,Staten Island,Total,137,187,205,230,297,343,446,522,541,612,626,662
 10303,501,Port Richmond,Port Richmond,Staten Island,Positive,106,144,159,174,229,265,363,412,419,486,506,527
-10304,502,Stapleton -  St. George,Stapleton and St. George,Staten Island,Positive,289,376,397,419,482,515,634,702,718,788,805,834
+10303,501,Port Richmond,Port Richmond,Staten Island,Total,221,292,322,353,448,513,636,736,760,866,903,942
 10304,502,Stapleton -  St. George,Stapleton and St. George,Staten Island,Total,540,667,717,763,899,1010,1191,1366,1409,1529,1574,1623
+10304,502,Stapleton -  St. George,Stapleton and St. George,Staten Island,Positive,289,376,397,419,482,515,634,702,718,788,805,834
 10305,502,Stapleton -  St. George,Stapleton and St. George,Staten Island,Total,428,561,607,652,798,948,1157,1345,1386,1504,1549,1591
 10305,502,Stapleton -  St. George,Stapleton and St. George,Staten Island,Positive,178,258,280,298,369,410,540,616,636,700,724,746
 10306,504,South Beach - Tottenville,South Shore,Staten Island,Positive,278,351,365,404,479,513,705,788,809,886,917,941
 10306,504,South Beach - Tottenville,South Shore,Staten Island,Total,632,765,808,884,1069,1239,1545,1781,1829,1989,2046,2098
 10307,504,South Beach - Tottenville,South Shore,Staten Island,Total,142,186,202,217,268,305,370,450,469,510,530,541
 10307,504,South Beach - Tottenville,South Shore,Staten Island,Positive,67,93,99,109,133,143,186,220,225,246,253,255
-10308,504,South Beach - Tottenville,South Shore,Staten Island,Total,331,407,438,474,556,639,756,867,903,984,1022,1055
 10308,504,South Beach - Tottenville,South Shore,Staten Island,Positive,146,184,197,214,248,270,344,380,390,430,441,450
+10308,504,South Beach - Tottenville,South Shore,Staten Island,Total,331,407,438,474,556,639,756,867,903,984,1022,1055
 10309,504,South Beach - Tottenville,South Shore,Staten Island,Total,363,453,483,522,646,765,913,1117,1156,1264,1298,1345
 10309,504,South Beach - Tottenville,South Shore,Staten Island,Positive,170,215,230,246,298,324,416,500,508,561,575,594
-10310,501,Port Richmond,Port Richmond,Staten Island,Total,218,269,300,336,429,492,620,721,752,815,847,876
 10310,501,Port Richmond,Port Richmond,Staten Island,Positive,97,129,142,161,206,217,294,341,355,383,397,413
+10310,501,Port Richmond,Port Richmond,Staten Island,Total,218,269,300,336,429,492,620,721,752,815,847,876
 10312,504,South Beach - Tottenville,South Shore,Staten Island,Total,654,802,856,916,1104,1253,1554,1860,1929,2071,2150,2225
 10312,504,South Beach - Tottenville,South Shore,Staten Island,Positive,336,418,442,462,558,593,794,918,934,1008,1032,1065
 10314,503,Willowbrook,Mid-Island,Staten Island,Total,959,1218,1314,1408,1690,1944,2394,2828,2923,3231,3329,3460
 10314,503,Willowbrook,Mid-Island,Staten Island,Positive,452,619,663,712,839,902,1173,1356,1402,1569,1608,1679
 10451,106,High Bridge - Morrisania,High Bridge and Morrisania,Bronx,Total,585,623,665,701,849,900,1087,1192,1232,1314,1361,1411
 10451,106,High Bridge - Morrisania,High Bridge and Morrisania,Bronx,Positive,337,336,370,392,476,498,646,709,730,788,822,855
-10452,106,High Bridge - Morrisania,High Bridge and Morrisania,Bronx,Total,629,824,877,942,1107,1179,1345,1491,1534,1640,1696,1770
 10452,106,High Bridge - Morrisania,High Bridge and Morrisania,Bronx,Positive,367,509,542,584,698,735,869,973,986,1068,1106,1156
+10452,106,High Bridge - Morrisania,High Bridge and Morrisania,Bronx,Total,629,824,877,942,1107,1179,1345,1491,1534,1640,1696,1770
 10453,105,Crotona - Tremont,Central Bronx,Bronx,Positive,386,527,573,619,734,790,941,1042,1064,1146,1188,1234
 10453,105,Crotona - Tremont,Central Bronx,Bronx,Total,663,845,917,983,1194,1287,1475,1637,1690,1811,1895,1972
-10454,107,Hunts Point - Mott Haven,Hunts Point and Mott Haven,Bronx,Positive,174,245,273,294,336,355,455,510,517,550,566,583
 10454,107,Hunts Point - Mott Haven,Hunts Point and Mott Haven,Bronx,Total,343,441,475,498,571,612,732,811,828,872,896,925
+10454,107,Hunts Point - Mott Haven,Hunts Point and Mott Haven,Bronx,Positive,174,245,273,294,336,355,455,510,517,550,566,583
 10455,107,Hunts Point - Mott Haven,Hunts Point and Mott Haven,Bronx,Positive,176,233,257,274,326,349,457,511,523,562,584,626
 10455,107,Hunts Point - Mott Haven,Hunts Point and Mott Haven,Bronx,Total,351,432,469,495,584,631,762,847,867,919,946,998
-10456,106,High Bridge - Morrisania,High Bridge and Morrisania,Bronx,Total,693,886,958,1054,1253,1353,1541,1693,1737,1840,1917,2024
 10456,106,High Bridge - Morrisania,High Bridge and Morrisania,Bronx,Positive,355,500,548,619,741,802,948,1038,1057,1130,1175,1250
-10457,105,Crotona - Tremont,Central Bronx,Bronx,Positive,306,427,483,533,644,679,820,890,907,969,1004,1069
+10456,106,High Bridge - Morrisania,High Bridge and Morrisania,Bronx,Total,693,886,958,1054,1253,1353,1541,1693,1737,1840,1917,2024
 10457,105,Crotona - Tremont,Central Bronx,Bronx,Total,571,743,814,879,1062,1126,1308,1415,1467,1551,1612,1704
-10458,103,Fordham - Bronx Park,Bronx Park and Fordham,Bronx,Total,622,800,862,933,1114,1219,1386,1534,1571,1662,1735,1813
+10457,105,Crotona - Tremont,Central Bronx,Bronx,Positive,306,427,483,533,644,679,820,890,907,969,1004,1069
 10458,103,Fordham - Bronx Park,Bronx Park and Fordham,Bronx,Positive,332,453,495,541,631,676,807,888,902,968,1014,1060
+10458,103,Fordham - Bronx Park,Bronx Park and Fordham,Bronx,Total,622,800,862,933,1114,1219,1386,1534,1571,1662,1735,1813
 10459,107,Hunts Point - Mott Haven,Hunts Point and Mott Haven,Bronx,Total,423,534,574,618,764,839,989,1099,1130,1201,1234,1296
 10459,107,Hunts Point - Mott Haven,Hunts Point and Mott Haven,Bronx,Positive,227,309,340,363,440,482,604,677,693,746,762,808
-10460,105,Crotona - Tremont,Central Bronx,Bronx,Total,484,622,661,697,831,905,1086,1180,1215,1288,1344,1427
 10460,105,Crotona - Tremont,Central Bronx,Bronx,Positive,255,344,371,397,467,500,649,711,725,771,801,847
+10460,105,Crotona - Tremont,Central Bronx,Bronx,Total,484,622,661,697,831,905,1086,1180,1215,1288,1344,1427
 10461,104,Pelhem - Throgs Neck,Southeast Bronx,Bronx,Positive,376,444,496,536,653,687,837,951,965,1018,1037,1083
 10461,104,Pelhem - Throgs Neck,Southeast Bronx,Bronx,Total,714,846,923,993,1194,1311,1529,1750,1794,1878,1920,2014
-10462,104,Pelhem - Throgs Neck,Southeast Bronx,Bronx,Total,768,1015,1096,1160,1387,1509,1748,1979,2039,2158,2215,2306
 10462,104,Pelhem - Throgs Neck,Southeast Bronx,Bronx,Positive,377,544,597,632,765,807,987,1114,1133,1201,1223,1284
+10462,104,Pelhem - Throgs Neck,Southeast Bronx,Bronx,Total,768,1015,1096,1160,1387,1509,1748,1979,2039,2158,2215,2306
 10463,101,Kingsbridge - Riverdale,Kingsbridge and Riverdale,Bronx,Positive,253,327,367,402,486,536,681,769,815,885,926,964
 10463,101,Kingsbridge - Riverdale,Kingsbridge and Riverdale,Bronx,Total,654,780,852,909,1089,1219,1421,1613,1696,1810,1883,1965
 10464,104,Pelhem - Throgs Neck,Southeast Bronx,Bronx,Total,65,72,78,95,107,127,154,179,183,194,195,203
 10464,104,Pelhem - Throgs Neck,Southeast Bronx,Bronx,Positive,25,30,30,35,43,46,63,71,71,75,76,79
-10465,104,Pelhem - Throgs Neck,Southeast Bronx,Bronx,Positive,267,389,426,461,552,586,703,804,816,865,882,927
 10465,104,Pelhem - Throgs Neck,Southeast Bronx,Bronx,Total,596,805,885,960,1129,1225,1418,1627,1680,1762,1814,1906
-10466,102,Northeast Bronx,Northeast Bronx,Bronx,Total,666,889,950,1013,1265,1373,1623,1868,1938,2112,2171,2284
+10465,104,Pelhem - Throgs Neck,Southeast Bronx,Bronx,Positive,267,389,426,461,552,586,703,804,816,865,882,927
 10466,102,Northeast Bronx,Northeast Bronx,Bronx,Positive,362,510,548,588,737,792,970,1115,1147,1259,1287,1361
+10466,102,Northeast Bronx,Northeast Bronx,Bronx,Total,666,889,950,1013,1265,1373,1623,1868,1938,2112,2171,2284
 10467,103,Fordham - Bronx Park,Bronx Park and Fordham,Bronx,Total,1134,1446,1531,1625,1942,2091,2385,2669,2729,2911,2991,3135
 10467,103,Fordham - Bronx Park,Bronx Park and Fordham,Bronx,Positive,638,836,889,941,1142,1209,1442,1626,1653,1769,1818,1918
 10468,103,Fordham - Bronx Park,Bronx Park and Fordham,Bronx,Positive,397,529,585,625,765,810,995,1096,1126,1224,1280,1343
 10468,103,Fordham - Bronx Park,Bronx Park and Fordham,Bronx,Total,624,796,879,939,1174,1272,1488,1668,1721,1849,1936,2033
-10469,102,Northeast Bronx,Northeast Bronx,Bronx,Positive,470,683,755,795,925,988,1208,1381,1417,1514,1577,1670
 10469,102,Northeast Bronx,Northeast Bronx,Bronx,Total,815,1119,1231,1304,1531,1673,1950,2226,2300,2448,2558,2688
+10469,102,Northeast Bronx,Northeast Bronx,Bronx,Positive,470,683,755,795,925,988,1208,1381,1417,1514,1577,1670
 10470,102,Northeast Bronx,Northeast Bronx,Bronx,Total,157,202,211,229,286,314,368,425,439,472,491,510
 10470,102,Northeast Bronx,Northeast Bronx,Bronx,Positive,83,108,111,121,156,167,205,233,238,258,266,279
 10471,101,Kingsbridge - Riverdale,Kingsbridge and Riverdale,Bronx,Positive,104,130,136,149,183,201,245,278,283,302,310,319
 10471,101,Kingsbridge - Riverdale,Kingsbridge and Riverdale,Bronx,Total,297,343,356,375,440,482,553,622,636,669,692,716
-10472,104,Pelhem - Throgs Neck,Southeast Bronx,Bronx,Positive,302,417,448,469,582,620,760,836,854,918,950,1014
 10472,104,Pelhem - Throgs Neck,Southeast Bronx,Bronx,Total,528,680,728,765,926,1000,1170,1291,1319,1408,1470,1568
+10472,104,Pelhem - Throgs Neck,Southeast Bronx,Bronx,Positive,302,417,448,469,582,620,760,836,854,918,950,1014
 10473,104,Pelhem - Throgs Neck,Southeast Bronx,Bronx,Total,556,760,821,887,1101,1233,1460,1652,1700,1795,1841,1940
 10473,104,Pelhem - Throgs Neck,Southeast Bronx,Bronx,Positive,304,437,472,518,638,693,858,963,986,1053,1085,1143
 10474,107,Hunts Point - Mott Haven,Hunts Point and Mott Haven,Bronx,Total,97,120,130,136,157,174,219,245,250,266,275,283
 10474,107,Hunts Point - Mott Haven,Hunts Point and Mott Haven,Bronx,Positive,55,71,77,83,97,106,138,158,159,170,175,182
-10475,102,Northeast Bronx,Northeast Bronx,Bronx,Positive,255,360,394,424,520,561,707,813,838,912,947,1021
 10475,102,Northeast Bronx,Northeast Bronx,Bronx,Total,446,607,659,705,887,1002,1243,1431,1484,1623,1692,1825
-11429,409,Southeast Queens,Southeast Queens,Queens,Total,265,393,424,461,542,573,615,681,708,765,790,830
+10475,102,Northeast Bronx,Northeast Bronx,Bronx,Positive,255,360,394,424,520,561,707,813,838,912,947,1021
 11429,409,Southeast Queens,Southeast Queens,Queens,Positive,163,274,296,322,381,402,432,482,496,536,548,575
-11004,409,Southeast Queens,Southeast Queens,Queens,Positive,121,173,194,200,239,250,278,300,310,324,330,348
+11429,409,Southeast Queens,Southeast Queens,Queens,Total,265,393,424,461,542,573,615,681,708,765,790,830
 11004,409,Southeast Queens,Southeast Queens,Queens,Total,204,277,307,316,367,391,424,462,481,505,521,547
+11004,409,Southeast Queens,Southeast Queens,Queens,Positive,121,173,194,200,239,250,278,300,310,324,330,348
 11101,401,Long Island City - Astoria,Northwest Queens,Queens,Total,320,417,439,470,520,537,580,614,627,672,686,707
 11101,401,Long Island City - Astoria,Northwest Queens,Queens,Positive,148,201,214,232,258,265,298,315,322,344,351,364
 11102,401,Long Island City - Astoria,Northwest Queens,Queens,Total,231,296,318,352,404,431,461,491,503,534,550,579
@@ -177,70 +177,70 @@ NA,,,,,Positive,32,4473,4530,4712,4735,4691,1330,1362,1363,1934,1851,2033
 11104,401,Long Island City - Astoria,Northwest Queens,Queens,Positive,85,136,152,160,178,186,219,243,252,264,271,279
 11105,401,Long Island City - Astoria,Northwest Queens,Queens,Positive,104,136,157,166,186,194,226,248,254,279,287,300
 11105,401,Long Island City - Astoria,Northwest Queens,Queens,Total,242,301,328,346,377,401,445,495,513,550,565,596
-11106,401,Long Island City - Astoria,Northwest Queens,Queens,Total,290,354,382,399,457,479,541,578,595,629,643,674
 11106,401,Long Island City - Astoria,Northwest Queens,Queens,Positive,144,182,194,206,234,248,293,312,319,342,350,360
-11109,,,,,Positive,13,23,24,25,29,30,30,35,35,37,37,38
+11106,401,Long Island City - Astoria,Northwest Queens,Queens,Total,290,354,382,399,457,479,541,578,595,629,643,674
 11109,,,,,Total,45,68,70,73,80,82,87,95,98,103,104,106
+11109,,,,,Positive,13,23,24,25,29,30,30,35,35,37,37,38
 11201,202,Downtown - Heights - Slope,Northwest Brooklyn,Brooklyn,Positive,204,236,249,259,285,293,321,344,353,373,380,387
 11201,202,Downtown - Heights - Slope,Northwest Brooklyn,Brooklyn,Total,479,546,578,601,700,737,793,840,863,894,908,932
-11203,207,East Flatbush - Flatbush,Flatbush,Brooklyn,Positive,343,466,499,553,642,676,792,881,910,1001,1034,1085
 11203,207,East Flatbush - Flatbush,Flatbush,Brooklyn,Total,546,737,790,870,1017,1070,1210,1345,1411,1529,1572,1657
+11203,207,East Flatbush - Flatbush,Flatbush,Brooklyn,Positive,343,466,499,553,642,676,792,881,910,1001,1034,1085
 11204,206,Borough Park,Borough Park,Brooklyn,Total,932,1171,1234,1298,1456,1505,1594,1673,1699,1791,1830,1880
 11204,206,Borough Park,Borough Park,Brooklyn,Positive,534,712,746,789,908,930,994,1034,1043,1110,1134,1163
 11205,202,Downtown - Heights - Slope,Northwest Brooklyn,Brooklyn,Positive,182,242,254,270,317,330,347,360,363,392,396,416
 11205,202,Downtown - Heights - Slope,Northwest Brooklyn,Brooklyn,Total,319,412,433,462,581,606,642,674,685,724,734,766
-11206,211,Williamsburg - Bushwick ,Bushwick and Williamsburg,Brooklyn,Positive,329,411,444,477,536,556,648,703,718,757,777,808
 11206,211,Williamsburg - Bushwick ,Bushwick and Williamsburg,Brooklyn,Total,572,716,766,816,945,987,1105,1208,1241,1312,1341,1391
-11207,204,East New York,East New York and New Lots,Brooklyn,Positive,332,479,524,554,658,684,763,836,856,928,956,1004
+11206,211,Williamsburg - Bushwick ,Bushwick and Williamsburg,Brooklyn,Positive,329,411,444,477,536,556,648,703,718,757,777,808
 11207,204,East New York,East New York and New Lots,Brooklyn,Total,587,798,859,911,1087,1144,1253,1365,1408,1495,1548,1626
+11207,204,East New York,East New York and New Lots,Brooklyn,Positive,332,479,524,554,658,684,763,836,856,928,956,1004
 11208,204,East New York,East New York and New Lots,Brooklyn,Total,561,794,868,923,1100,1168,1296,1423,1466,1568,1616,1723
 11208,204,East New York,East New York and New Lots,Brooklyn,Positive,350,520,571,608,713,753,841,932,953,1029,1058,1129
 11209,209,Bensonhurst - Bay Ridge,Southwest Brooklyn,Brooklyn,Total,452,606,664,718,848,905,994,1066,1087,1162,1199,1262
 11209,209,Bensonhurst - Bay Ridge,Southwest Brooklyn,Brooklyn,Positive,209,292,321,348,419,440,497,530,538,587,611,648
-11210,207,East Flatbush - Flatbush,Flatbush,Brooklyn,Positive,386,524,554,583,663,699,776,821,838,898,919,960
 11210,207,East Flatbush - Flatbush,Flatbush,Brooklyn,Total,671,859,900,953,1083,1138,1241,1317,1351,1427,1460,1516
-11211,201,Greenpoint,Greenpoint,Brooklyn,Positive,601,788,829,859,948,974,1066,1128,1138,1202,1216,1248
+11210,207,East Flatbush - Flatbush,Flatbush,Brooklyn,Positive,386,524,554,583,663,699,776,821,838,898,919,960
 11211,201,Greenpoint,Greenpoint,Brooklyn,Total,961,1225,1285,1335,1490,1535,1659,1764,1799,1893,1914,1975
+11211,201,Greenpoint,Greenpoint,Brooklyn,Positive,601,788,829,859,948,974,1066,1128,1138,1202,1216,1248
 11212,203,Bedford Stuyvesant - Crown Heights,Central Brooklyn,Brooklyn,Total,445,632,690,758,920,968,1078,1171,1213,1302,1340,1410
 11212,203,Bedford Stuyvesant - Crown Heights,Central Brooklyn,Brooklyn,Positive,254,395,434,469,584,613,698,764,780,842,863,915
 11213,203,Bedford Stuyvesant - Crown Heights,Central Brooklyn,Brooklyn,Positive,394,498,520,554,615,633,682,726,737,793,811,840
 11213,203,Bedford Stuyvesant - Crown Heights,Central Brooklyn,Brooklyn,Total,621,772,816,879,1002,1043,1107,1189,1213,1296,1322,1373
 11214,209,Bensonhurst - Bay Ridge,Southwest Brooklyn,Brooklyn,Total,544,691,745,796,933,996,1113,1206,1237,1330,1374,1437
 11214,209,Bensonhurst - Bay Ridge,Southwest Brooklyn,Brooklyn,Positive,251,347,369,403,493,523,616,678,693,760,788,829
-11215,202,Downtown - Heights - Slope,Northwest Brooklyn,Brooklyn,Total,437,493,524,559,619,654,706,740,754,797,811,845
 11215,202,Downtown - Heights - Slope,Northwest Brooklyn,Brooklyn,Positive,178,203,217,239,265,276,307,319,321,350,359,373
-11216,203,Bedford Stuyvesant - Crown Heights,Central Brooklyn,Brooklyn,Positive,162,210,222,240,278,285,318,341,347,376,384,408
+11215,202,Downtown - Heights - Slope,Northwest Brooklyn,Brooklyn,Total,437,493,524,559,619,654,706,740,754,797,811,845
 11216,203,Bedford Stuyvesant - Crown Heights,Central Brooklyn,Brooklyn,Total,316,396,422,445,525,549,596,640,664,709,725,760
-11217,202,Downtown - Heights - Slope,Northwest Brooklyn,Brooklyn,Total,269,321,340,369,447,478,508,539,546,599,621,640
+11216,203,Bedford Stuyvesant - Crown Heights,Central Brooklyn,Brooklyn,Positive,162,210,222,240,278,285,318,341,347,376,384,408
 11217,202,Downtown - Heights - Slope,Northwest Brooklyn,Brooklyn,Positive,130,161,177,196,228,239,258,279,281,316,331,344
+11217,202,Downtown - Heights - Slope,Northwest Brooklyn,Brooklyn,Total,269,321,340,369,447,478,508,539,546,599,621,640
 11218,206,Borough Park,Borough Park,Brooklyn,Positive,350,499,542,574,703,774,856,893,904,976,988,1015
 11218,206,Borough Park,Borough Park,Brooklyn,Total,613,856,927,975,1186,1299,1422,1484,1511,1606,1630,1672
 11219,206,Borough Park,Borough Park,Brooklyn,Positive,771,1037,1088,1136,1314,1417,1513,1562,1564,1679,1698,1725
 11219,206,Borough Park,Borough Park,Brooklyn,Total,1146,1487,1565,1644,1908,2067,2199,2281,2312,2476,2505,2561
-11220,205,Sunset Park,Sunset Park,Brooklyn,Positive,264,402,440,455,556,585,656,695,718,784,808,844
 11220,205,Sunset Park,Sunset Park,Brooklyn,Total,459,654,712,748,893,959,1048,1109,1156,1238,1277,1328
-11221,211,Williamsburg - Bushwick ,Bushwick and Williamsburg,Brooklyn,Total,455,566,602,644,779,809,890,963,983,1061,1083,1139
+11220,205,Sunset Park,Sunset Park,Brooklyn,Positive,264,402,440,455,556,585,656,695,718,784,808,844
 11221,211,Williamsburg - Bushwick ,Bushwick and Williamsburg,Brooklyn,Positive,260,335,358,384,462,477,538,586,593,641,652,683
+11221,211,Williamsburg - Bushwick ,Bushwick and Williamsburg,Brooklyn,Total,455,566,602,644,779,809,890,963,983,1061,1083,1139
 11222,201,Greenpoint,Greenpoint,Brooklyn,Total,236,291,314,333,392,414,450,473,481,518,527,544
 11222,201,Greenpoint,Greenpoint,Brooklyn,Positive,96,131,140,148,177,181,205,220,225,255,262,271
-11223,210,Coney Island - Sheepshead Bay,Southern Brooklyn,Brooklyn,Positive,346,474,508,529,618,651,752,809,827,885,920,960
 11223,210,Coney Island - Sheepshead Bay,Southern Brooklyn,Brooklyn,Total,642,858,925,973,1118,1188,1316,1425,1470,1555,1621,1692
-11224,210,Coney Island - Sheepshead Bay,Southern Brooklyn,Brooklyn,Total,304,392,412,446,534,569,662,735,760,811,834,881
+11223,210,Coney Island - Sheepshead Bay,Southern Brooklyn,Brooklyn,Positive,346,474,508,529,618,651,752,809,827,885,920,960
 11224,210,Coney Island - Sheepshead Bay,Southern Brooklyn,Brooklyn,Positive,133,195,210,235,296,314,387,434,443,485,498,528
-11225,207,East Flatbush - Flatbush,Flatbush,Brooklyn,Positive,267,353,376,394,450,469,541,573,588,632,654,686
+11224,210,Coney Island - Sheepshead Bay,Southern Brooklyn,Brooklyn,Total,304,392,412,446,534,569,662,735,760,811,834,881
 11225,207,East Flatbush - Flatbush,Flatbush,Brooklyn,Total,427,539,572,608,716,751,844,905,944,1001,1029,1080
-11226,207,East Flatbush - Flatbush,Flatbush,Brooklyn,Positive,344,485,523,553,639,670,784,859,898,995,1021,1089
+11225,207,East Flatbush - Flatbush,Flatbush,Brooklyn,Positive,267,353,376,394,450,469,541,573,588,632,654,686
 11226,207,East Flatbush - Flatbush,Flatbush,Brooklyn,Total,600,786,844,887,1032,1090,1230,1354,1412,1527,1573,1669
+11226,207,East Flatbush - Flatbush,Flatbush,Brooklyn,Positive,344,485,523,553,639,670,784,859,898,995,1021,1089
 11228,209,Bensonhurst - Bay Ridge,Southwest Brooklyn,Brooklyn,Positive,101,158,169,179,229,250,294,316,322,356,365,378
 11228,209,Bensonhurst - Bay Ridge,Southwest Brooklyn,Brooklyn,Total,222,300,324,341,421,454,519,558,576,626,648,664
 11229,210,Coney Island - Sheepshead Bay,Southern Brooklyn,Brooklyn,Total,640,812,847,890,1053,1117,1211,1281,1308,1402,1449,1514
 11229,210,Coney Island - Sheepshead Bay,Southern Brooklyn,Brooklyn,Positive,316,423,445,470,565,603,674,714,721,791,821,860
 11230,206,Borough Park,Borough Park,Brooklyn,Positive,631,848,903,946,1054,1089,1167,1221,1233,1301,1329,1367
 11230,206,Borough Park,Borough Park,Brooklyn,Total,1046,1334,1414,1487,1670,1742,1865,1955,1994,2091,2137,2198
-11231,202,Downtown - Heights - Slope,Northwest Brooklyn,Brooklyn,Total,271,317,330,351,394,413,443,469,478,504,513,524
 11231,202,Downtown - Heights - Slope,Northwest Brooklyn,Brooklyn,Positive,127,154,161,169,191,197,217,223,227,241,247,254
-11232,205,Sunset Park,Sunset Park,Brooklyn,Total,150,222,244,264,304,317,342,361,374,395,419,434
+11231,202,Downtown - Heights - Slope,Northwest Brooklyn,Brooklyn,Total,271,317,330,351,394,413,443,469,478,504,513,524
 11232,205,Sunset Park,Sunset Park,Brooklyn,Positive,85,141,155,169,193,203,222,243,248,267,287,299
+11232,205,Sunset Park,Sunset Park,Brooklyn,Total,150,222,244,264,304,317,342,361,374,395,419,434
 11233,203,Bedford Stuyvesant - Crown Heights,Central Brooklyn,Brooklyn,Total,383,493,524,576,691,720,797,881,904,971,1005,1056
 11233,203,Bedford Stuyvesant - Crown Heights,Central Brooklyn,Brooklyn,Positive,225,302,325,356,412,428,481,534,539,591,616,648
 11234,208,Canarsie - Flatlands,Canarsie and Flatlands,Brooklyn,Total,713,937,1007,1079,1287,1384,1565,1704,1750,1879,1952,2061
@@ -249,30 +249,30 @@ NA,,,,,Positive,32,4473,4530,4712,4735,4691,1330,1362,1363,1934,1851,2033
 11235,210,Coney Island - Sheepshead Bay,Southern Brooklyn,Brooklyn,Positive,348,421,459,487,588,630,757,824,843,911,954,992
 11236,208,Canarsie - Flatlands,Canarsie and Flatlands,Brooklyn,Positive,416,618,676,728,871,938,1069,1157,1184,1313,1352,1439
 11236,208,Canarsie - Flatlands,Canarsie and Flatlands,Brooklyn,Total,701,979,1070,1153,1376,1470,1641,1785,1835,1985,2053,2176
-11237,211,Williamsburg - Bushwick ,Bushwick and Williamsburg,Brooklyn,Positive,184,235,258,274,320,334,375,411,421,451,460,481
 11237,211,Williamsburg - Bushwick ,Bushwick and Williamsburg,Brooklyn,Total,288,352,383,408,485,509,559,610,627,665,682,715
+11237,211,Williamsburg - Bushwick ,Bushwick and Williamsburg,Brooklyn,Positive,184,235,258,274,320,334,375,411,421,451,460,481
 11238,203,Bedford Stuyvesant - Crown Heights,Central Brooklyn,Brooklyn,Total,350,465,496,514,611,636,677,716,732,778,787,810
 11238,203,Bedford Stuyvesant - Crown Heights,Central Brooklyn,Brooklyn,Positive,183,253,272,283,339,350,381,407,412,448,454,466
 11239,208,Canarsie - Flatlands,Canarsie and Flatlands,Brooklyn,Positive,85,128,137,157,172,179,199,221,230,250,261,275
 11239,208,Canarsie - Flatlands,Canarsie and Flatlands,Brooklyn,Total,129,187,203,228,267,281,313,358,378,403,417,440
 11357,403,Flushing - Clearview,North Queens,Queens,Total,320,429,456,483,570,604,659,706,724,777,798,836
 11357,403,Flushing - Clearview,North Queens,Queens,Positive,162,230,240,260,323,336,373,400,408,441,452,477
-11354,403,Flushing - Clearview,North Queens,Queens,Positive,134,205,232,257,297,324,366,412,422,461,483,503
 11354,403,Flushing - Clearview,North Queens,Queens,Total,272,368,410,439,508,546,608,674,695,757,791,821
+11354,403,Flushing - Clearview,North Queens,Queens,Positive,134,205,232,257,297,324,366,412,422,461,483,503
 11355,403,Flushing - Clearview,North Queens,Queens,Total,364,496,543,588,653,681,743,822,848,926,961,1006
 11355,403,Flushing - Clearview,North Queens,Queens,Positive,213,308,333,365,412,426,475,527,538,587,611,639
-11356,403,Flushing - Clearview,North Queens,Queens,Total,226,288,306,331,378,391,421,452,458,497,514,538
 11356,403,Flushing - Clearview,North Queens,Queens,Positive,110,151,160,177,205,209,231,255,257,285,296,313
+11356,403,Flushing - Clearview,North Queens,Queens,Total,226,288,306,331,378,391,421,452,458,497,514,538
 11358,403,Flushing - Clearview,North Queens,Queens,Total,248,320,339,358,407,429,478,504,519,553,576,604
 11358,403,Flushing - Clearview,North Queens,Queens,Positive,119,158,163,172,205,211,246,259,265,289,301,319
-11360,403,Flushing - Clearview,North Queens,Queens,Total,153,197,220,230,265,283,304,321,333,358,370,381
 11360,403,Flushing - Clearview,North Queens,Queens,Positive,59,86,94,97,118,123,138,147,153,173,177,184
+11360,403,Flushing - Clearview,North Queens,Queens,Total,153,197,220,230,265,283,304,321,333,358,370,381
 11361,404,Bayside - Little Neck,Northeast Queens,Queens,Positive,85,118,130,145,178,185,207,224,229,253,258,265
 11361,404,Bayside - Little Neck,Northeast Queens,Queens,Total,188,229,248,270,318,339,378,404,420,463,474,489
 11362,404,Bayside - Little Neck,Northeast Queens,Queens,Positive,64,88,88,91,124,127,141,148,158,167,173,183
 11362,404,Bayside - Little Neck,Northeast Queens,Queens,Total,143,193,202,211,257,266,286,310,323,339,350,371
-11363,404,Bayside - Little Neck,Northeast Queens,Queens,Positive,27,33,38,42,52,55,63,65,65,68,69,69
 11363,404,Bayside - Little Neck,Northeast Queens,Queens,Total,65,77,85,93,114,116,124,130,132,136,141,144
+11363,404,Bayside - Little Neck,Northeast Queens,Queens,Positive,27,33,38,42,52,55,63,65,65,68,69,69
 11364,404,Bayside - Little Neck,Northeast Queens,Queens,Positive,113,149,158,164,196,200,220,237,242,259,265,282
 11364,404,Bayside - Little Neck,Northeast Queens,Queens,Total,220,277,297,312,360,375,412,443,456,485,499,521
 11365,406,Fresh Meadows,Central Queens,Queens,Positive,166,229,248,268,313,326,358,401,411,440,457,475
@@ -285,75 +285,75 @@ NA,,,,,Positive,32,4473,4530,4712,4735,4691,1330,1362,1363,1934,1851,2033
 11368,402,West Queens,West Queens,Queens,Positive,947,1245,1337,1446,1659,1728,2132,2248,2287,2398,2446,2510
 11369,402,West Queens,West Queens,Queens,Positive,331,464,504,547,608,632,746,813,839,883,903,929
 11369,402,West Queens,West Queens,Queens,Total,454,623,674,728,813,853,985,1070,1107,1165,1195,1236
-11370,402,West Queens,West Queens,Queens,Positive,378,510,540,573,633,654,731,797,811,833,847,883
 11370,402,West Queens,West Queens,Queens,Total,777,932,970,1007,1089,1123,1211,1286,1312,1348,1365,1416
+11370,402,West Queens,West Queens,Queens,Positive,378,510,540,573,633,654,731,797,811,833,847,883
 11372,402,West Queens,West Queens,Queens,Total,693,963,1026,1102,1268,1326,1624,1769,1823,1927,1992,2049
 11372,402,West Queens,West Queens,Queens,Positive,492,697,747,806,916,957,1232,1322,1355,1428,1476,1511
-11373,402,West Queens,West Queens,Queens,Total,1148,1229,1322,1425,1663,1732,2173,2399,2490,2600,2647,2720
 11373,402,West Queens,West Queens,Queens,Positive,831,841,903,983,1142,1190,1602,1737,1779,1859,1893,1939
+11373,402,West Queens,West Queens,Queens,Total,1148,1229,1322,1425,1663,1732,2173,2399,2490,2600,2647,2720
 11374,405,Ridgewood - Forest Hills,West Central Queens,Queens,Total,535,686,749,784,876,922,984,1068,1105,1169,1190,1223
 11374,405,Ridgewood - Forest Hills,West Central Queens,Queens,Positive,319,419,460,479,523,546,581,625,636,673,686,710
 11375,405,Ridgewood - Forest Hills,West Central Queens,Queens,Positive,418,559,613,653,744,777,825,859,872,937,970,1003
 11375,405,Ridgewood - Forest Hills,West Central Queens,Queens,Total,838,1048,1138,1203,1359,1428,1515,1603,1644,1741,1793,1848
-11377,402,West Queens,West Queens,Queens,Positive,364,515,563,620,736,772,962,1052,1072,1152,1173,1214
 11377,402,West Queens,West Queens,Queens,Total,628,831,900,972,1141,1209,1425,1575,1632,1740,1781,1845
+11377,402,West Queens,West Queens,Queens,Positive,364,515,563,620,736,772,962,1052,1072,1152,1173,1214
 11378,402,West Queens,West Queens,Queens,Total,285,353,383,412,463,491,547,604,626,679,696,725
 11378,402,West Queens,West Queens,Queens,Positive,156,198,219,232,263,274,318,347,358,397,402,419
 11379,405,Ridgewood - Forest Hills,West Central Queens,Queens,Total,360,456,476,504,576,605,664,727,741,797,809,846
 11379,405,Ridgewood - Forest Hills,West Central Queens,Queens,Positive,195,252,260,276,317,326,366,394,403,434,438,459
-11385,405,Ridgewood - Forest Hills,West Central Queens,Queens,Positive,425,606,639,668,767,804,885,963,977,1066,1091,1139
 11385,405,Ridgewood - Forest Hills,West Central Queens,Queens,Total,759,1021,1087,1139,1311,1373,1494,1613,1662,1797,1839,1921
+11385,405,Ridgewood - Forest Hills,West Central Queens,Queens,Positive,425,606,639,668,767,804,885,963,977,1066,1091,1139
 11411,409,Southeast Queens,Southeast Queens,Queens,Positive,151,213,246,271,309,317,341,371,387,408,419,433
 11411,409,Southeast Queens,Southeast Queens,Queens,Total,221,303,339,368,424,444,483,532,554,594,615,640
-11412,408,Jamaica,Jamaica,Queens,Total,410,554,604,663,769,793,869,964,1001,1081,1111,1157
 11412,408,Jamaica,Jamaica,Queens,Positive,245,348,386,423,496,512,577,631,645,693,706,738
-11413,409,Southeast Queens,Southeast Queens,Queens,Total,432,618,667,725,815,853,951,1036,1080,1163,1207,1249
+11412,408,Jamaica,Jamaica,Queens,Total,410,554,604,663,769,793,869,964,1001,1081,1111,1157
 11413,409,Southeast Queens,Southeast Queens,Queens,Positive,261,393,420,460,528,549,622,674,691,752,773,800
+11413,409,Southeast Queens,Southeast Queens,Queens,Total,432,618,667,725,815,853,951,1036,1080,1163,1207,1249
 11414,407,Southwest Queens,Southwest Queens,Queens,Positive,162,220,238,252,341,354,392,421,434,453,473,515
 11414,407,Southwest Queens,Southwest Queens,Queens,Total,321,401,431,451,569,593,652,703,736,765,794,847
-11415,407,Southwest Queens,Southwest Queens,Queens,Total,243,313,328,343,389,407,427,471,481,517,534,550
 11415,407,Southwest Queens,Southwest Queens,Queens,Positive,149,185,198,205,231,239,251,276,284,306,312,320
+11415,407,Southwest Queens,Southwest Queens,Queens,Total,243,313,328,343,389,407,427,471,481,517,534,550
 11416,407,Southwest Queens,Southwest Queens,Queens,Total,185,248,280,311,358,371,414,446,471,489,508,530
 11416,407,Southwest Queens,Southwest Queens,Queens,Positive,117,161,183,204,233,238,267,286,302,317,331,347
-11417,407,Southwest Queens,Southwest Queens,Queens,Positive,173,230,241,254,315,323,370,383,393,421,439,462
 11417,407,Southwest Queens,Southwest Queens,Queens,Total,291,381,402,418,502,522,588,623,646,683,710,751
-11418,407,Southwest Queens,Southwest Queens,Queens,Positive,216,293,308,329,386,405,443,482,493,532,547,565
+11417,407,Southwest Queens,Southwest Queens,Queens,Positive,173,230,241,254,315,323,370,383,393,421,439,462
 11418,407,Southwest Queens,Southwest Queens,Queens,Total,363,474,508,541,616,647,698,763,785,838,863,897
+11418,407,Southwest Queens,Southwest Queens,Queens,Positive,216,293,308,329,386,405,443,482,493,532,547,565
 11419,407,Southwest Queens,Southwest Queens,Queens,Positive,182,261,290,318,386,398,443,483,495,542,565,600
 11419,407,Southwest Queens,Southwest Queens,Queens,Total,334,450,495,529,615,642,699,765,792,858,904,953
-11420,407,Southwest Queens,Southwest Queens,Queens,Positive,223,339,365,398,473,506,555,603,623,675,700,745
 11420,407,Southwest Queens,Southwest Queens,Queens,Total,390,565,607,656,769,816,879,939,981,1064,1106,1168
+11420,407,Southwest Queens,Southwest Queens,Queens,Positive,223,339,365,398,473,506,555,603,623,675,700,745
 11421,407,Southwest Queens,Southwest Queens,Queens,Total,352,452,486,508,604,645,724,800,834,906,930,980
 11421,407,Southwest Queens,Southwest Queens,Queens,Positive,202,280,305,323,397,418,481,537,555,602,619,655
-11422,409,Southeast Queens,Southeast Queens,Queens,Total,341,470,515,560,652,689,743,814,845,898,933,965
 11422,409,Southeast Queens,Southeast Queens,Queens,Positive,211,303,331,359,417,432,467,506,517,552,567,583
+11422,409,Southeast Queens,Southeast Queens,Queens,Total,341,470,515,560,652,689,743,814,845,898,933,965
 11423,408,Jamaica,Jamaica,Queens,Positive,164,248,262,273,336,356,412,442,453,486,512,536
 11423,408,Jamaica,Jamaica,Queens,Total,270,382,404,426,511,544,612,675,702,745,800,836
 11426,409,Southeast Queens,Southeast Queens,Queens,Positive,101,141,155,163,214,225,243,263,270,292,301,316
 11426,409,Southeast Queens,Southeast Queens,Queens,Total,202,267,296,313,383,404,438,475,492,524,537,558
-11427,409,Southeast Queens,Southeast Queens,Queens,Positive,181,233,258,272,323,334,367,395,407,440,456,475
 11427,409,Southeast Queens,Southeast Queens,Queens,Total,323,400,439,459,529,549,596,647,669,726,757,787
+11427,409,Southeast Queens,Southeast Queens,Queens,Positive,181,233,258,272,323,334,367,395,407,440,456,475
 11428,409,Southeast Queens,Southeast Queens,Queens,Positive,112,167,179,193,241,252,280,310,320,349,364,382
 11428,409,Southeast Queens,Southeast Queens,Queens,Total,171,252,271,295,355,374,419,464,488,536,562,597
-11434,408,Jamaica,Jamaica,Queens,Total,555,803,877,952,1139,1212,1348,1485,1552,1655,1717,1798
 11434,408,Jamaica,Jamaica,Queens,Positive,358,536,584,635,752,785,895,968,997,1060,1099,1154
-11432,408,Jamaica,Jamaica,Queens,Positive,405,448,471,502,590,601,710,773,787,843,872,909
+11434,408,Jamaica,Jamaica,Queens,Total,555,803,877,952,1139,1212,1348,1485,1552,1655,1717,1798
 11432,408,Jamaica,Jamaica,Queens,Total,613,711,746,793,911,937,1071,1183,1219,1304,1345,1395
+11432,408,Jamaica,Jamaica,Queens,Positive,405,448,471,502,590,601,710,773,787,843,872,909
 11433,408,Jamaica,Jamaica,Queens,Total,250,344,370,408,481,505,592,645,666,727,750,776
 11433,408,Jamaica,Jamaica,Queens,Positive,155,226,239,262,308,323,394,423,432,477,493,515
 11435,408,Jamaica,Jamaica,Queens,Total,517,684,736,799,917,963,1068,1169,1212,1308,1357,1412
 11435,408,Jamaica,Jamaica,Queens,Positive,293,409,441,485,550,567,649,707,726,796,825,861
-11436,408,Jamaica,Jamaica,Queens,Total,155,205,222,240,280,298,330,361,377,412,429,450
 11436,408,Jamaica,Jamaica,Queens,Positive,100,137,148,160,186,194,217,240,245,269,280,292
+11436,408,Jamaica,Jamaica,Queens,Total,155,205,222,240,280,298,330,361,377,412,429,450
 11691,410,Rockaway,Rockaways,Queens,Positive,436,616,660,713,822,861,941,993,1019,1111,1155,1215
 11691,410,Rockaway,Rockaways,Queens,Total,694,926,992,1071,1226,1284,1395,1479,1527,1647,1715,1792
-11692,410,Rockaway,Rockaways,Queens,Positive,110,155,169,182,214,226,246,267,277,297,310,332
 11692,410,Rockaway,Rockaways,Queens,Total,184,246,267,289,332,350,379,417,437,471,493,521
-11693,410,Rockaway,Rockaways,Queens,Positive,86,116,120,131,147,154,167,184,185,197,205,220
+11692,410,Rockaway,Rockaways,Queens,Positive,110,155,169,182,214,226,246,267,277,297,310,332
 11693,410,Rockaway,Rockaways,Queens,Total,144,189,198,214,242,254,274,302,312,334,347,369
+11693,410,Rockaway,Rockaways,Queens,Positive,86,116,120,131,147,154,167,184,185,197,205,220
 11694,410,Rockaway,Rockaways,Queens,Positive,143,188,201,226,267,277,302,330,342,360,371,384
 11694,410,Rockaway,Rockaways,Queens,Total,270,349,367,397,457,481,519,565,587,622,641,662
 11697,410,Rockaway,Rockaways,Queens,Total,62,71,75,80,93,94,105,105,123,130,132,135
 11697,410,Rockaway,Rockaways,Queens,Positive,25,30,31,34,44,44,52,52,63,63,63,65
-99999,,,,,Positive,,,,,,0,2,,,,,
 99999,,,,,Total,,,,,,3,5,,,,,
+99999,,,,,Positive,,,,,,0,2,,,,,
