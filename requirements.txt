@@ -9,7 +9,7 @@ et-xmlfile==1.0.1
 idna==2.9
 jdcal==1.4.1
 kiwisolver==1.2.0
-lxml==4.5.0
+lxml==4.6.5
 matplotlib==3.2.1
 numpy==1.18.4
 opencv-python==4.2.0.34
