@@ -11,7 +11,7 @@ jdcal==1.4.1
 kiwisolver==1.2.0
 lxml==4.6.5
 matplotlib==3.2.1
-numpy==1.18.4
+numpy==1.22.0
 opencv-python==4.2.0.34
 openpyxl==3.0.3
 pandas==1.0.3
